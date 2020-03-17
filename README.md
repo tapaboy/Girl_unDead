@@ -1,5 +1,5 @@
 # Girl_unDead
 A campaign of Battle for Wesnoth
 
-##license
+## license
 GNU GENERAL PUBLIC LICENSE Version 2
