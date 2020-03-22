@@ -1,0 +1,160 @@
+Girl_undead --Campaign of "Battle for Wesnoth 1.12"
+
+Scripted by tapaboy.
+
+Girl unDead forum.
+http://forums.wesnoth.org/viewtopic.php?f=8&t=37458
+
+###2018.01.24
+Ver.1.4.0
+Made a big correction in intrusion.
+
+###2018.01.02
+Ver.1.3.0
+Made a big correction in Sanctuary and Gulf.
+
+###2015.12.20
+Ver.1.2.0
+Corrected "Escape", "Gulf" and other.
+
+###2015.12.20
+Ver.1.1.2
+Add Russian translation.
+
+###2014.12.28
+Ver.1.1.1
+
+
+###2014.12.21
+Ver.1.1.0
+Supports the latest version of BfW.
+Some scenarios and Maps are changed.
+
+###2014.07.21
+Ver.1.0.8
+Map changed "Gulf"
+
+###2014.03.30
+Ver.1.0.7
+Update Czech translation
+Fine tuned "Puppeteer"
+
+###2014.03.14
+Ver.1.0.6
+Fine tuned some scenarios
+
+###2014.03.14
+Ver.1.0.5
+Add Czech translation
+
+###2014.03.05
+Ver.1.0.4
+Correction in scenario "Sanctuary"
+
+###2014.03.03
+Ver.1.0.3
+Correction in scenario "Gulf"
+
+###2014.03.02
+Ver.1.0.2
+Correction in scenario "Revenge"
+
+###2014.02.21
+ver.1.0.1
+Bugfix ( "have_unit" tag fails. )
+
+###2014.02.08
+ver.1.0.0
+Complete the campaign.
+But, there may be some bugs.
+
+###2014.01.26
+ver.0.9.8.1
+Add music.
+
+###2014.01.26
+ver.0.9.8
+Almost translated to Japanese.
+
+###2014.01.20
+ver.0.9.7
+Partly translated to Japanese.
+
+###2014.01.03
+ver.0.9.6
+Some scenarios and maps are rewrited.
+Bugfix
+
+###2013.07.28
+ver.0.9.52
+Fixed a bug that can not start campaign at version 0.9.51.
+Deleted unnecessary files.
+
+###2013.07.13
+ver.0.9.51
+Some scenarios are refined.
+Known bug : Sometimes even though Stella is dead, Malica does not lose.
+
+###2013.07.13
+ver.0.9.50
+Some scenarios and maps are refined.
+Almost complete.
+
+###2013.04.14
+ver.0.9.20
+Some scenarios and maps are refined.
+
+###2013.04.14
+ver.0.9.00
+Scenario 11 and scenario 12 are refined.
+Some effects are added.
+
+###2013.03.16
+ver0.8.50
+Add ner scenario "Intrusion".
+Some scenarios are refined.
+But scenario 11 and scenario 12 are not tuned.
+
+###2013.02.18
+ver0.8.00
+Add new scenario "Gulf".
+Some scenarios are refined.
+
+###2013.02.11
+ver0.7.41
+Last breath of Malica's side is converted to macro.
+
+###2013.02.09
+ver0.7.40
+Some scenarios are refined.
+
+###2013.01.15
+ver0.7.04bata
+Every scenario is almost translated into English.
+The bug that can not open scenario 7 is collected.
+Scenario 8 is refined.
+
+###2012.11.18
+ver0.6.06
+From Scenario 1 to scenario 6 are translated into English.
+
+###2012.10.28
+ver0.6.05
+From Scenario 1 to scenario 5 are translated into English.
+
+###2012.09.17
+ver0.6.04
+From Scenario 1 to scenario 4 are translated into English.
+
+###2012.09.09
+ver0.6.02
+Scenario 1 and scenario 2 are translated in English.
+
+###2012.08.11
+ver0.6.00
+You can play all scenarios ( except scenario 11).
+But not adjusted.
+
+###2012.07.15
+ver0.3.00
+You can play scenario 1 to 8.

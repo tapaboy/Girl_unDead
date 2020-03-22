@@ -1,0 +1,94 @@
+#textdomain wesnoth-Girl_unDead
+
+## 時間を移動させることで、混沌を強くする。
+#define SPECIAL_NOTES_DARKENS
+_ " This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse."
+#enddef
+
+#define ABILITY_DARKENS
+    [dummy]
+        id=darkens
+        name= _ "darkens"
+        description= _ "Darkens:
+This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse.
+
+Any units adjacent to this unit will fight as if it were night."
+        affect_self=yes
+    [/dummy]
+   [abilities]
+   [event]
+      name=recruit,recall
+      first_time_only=no
+      [time_area]
+         x=$x1
+         y=$y1
+         radius=1
+         id=darkens_$x1_$y1
+         [time]
+            id=darkness
+            name= _ "Darkness"
+            image=misc/schedule-firstwatch.png
+            lawful_bonus=-25
+            red=-40
+            green=-40
+            blue=-10
+         [/time]
+         [illuminated_time]
+            id=hazy
+            name= _ "Dim"
+            image=misc/schedule-dusk.png
+            lawful_bonus=0
+            red=-40
+            green=-40
+            blue=-10
+         [/illuminated_time]
+      [/time_area]
+   [/event]
+   [event]
+      name=moveto
+      first_time_only=no
+      [filter]
+         ability=darkens
+      [/filter]
+      [time_area]
+         id=darkens_$x2_$y2
+         remove=yes
+      [/time_area]
+      [time_area]
+         x=$x1
+         y=$y1
+         radius=1
+         id=darkens_$x1_$y1
+         [time]
+            id=darkness
+            name= _ "Dark"
+            image=misc/schedule-firstwatch.png
+            lawful_bonus=-25
+            red=-40
+            green=-40
+            blue=-10
+         [/time]
+         [illuminated_time]
+            id=hazy
+            name= _ "Dim"
+            image=misc/schedule-dusk.png
+            lawful_bonus=0
+            red=-40
+            green=-40
+            blue=-10
+         [/illuminated_time]
+      [/time_area]
+   [/event]
+   [event]
+      name=die
+      first_time_only=no
+      [filter]
+         ability=darkens
+      [/filter]
+      [time_area]
+         id=darkens_$x1_$y1
+         remove=yes
+      [/time_area]
+   [/event]
+   [/abilities]
+#enddef

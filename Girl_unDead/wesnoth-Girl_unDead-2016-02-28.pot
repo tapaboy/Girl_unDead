@@ -1,0 +1,3953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2016-02-28 11:18+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [campaign]: id=Girl_unDead
+#: _main.cfg:10
+msgid "Girl unDead"
+msgstr ""
+
+#. [campaign]: id=Girl_unDead
+#: _main.cfg:15
+msgid "Malica, the daugher of a magi, has become to undead.  She fight against the kingdom. "
+msgstr ""
+
+#. [campaign]: id=Girl_unDead
+#: _main.cfg:17
+msgid "(hard)"
+msgstr ""
+
+#. [campaign]: id=Girl_unDead
+#: _main.cfg:17
+msgid "Walking Corpse"
+msgstr ""
+
+#. [campaign]: id=Girl_unDead
+#: _main.cfg:17
+msgid "ancient lich"
+msgstr ""
+
+#. [campaign]: id=Girl_unDead
+#: _main.cfg:17
+msgid "(normal)"
+msgstr ""
+
+#. [campaign]: id=Girl_unDead
+#: _main.cfg:17
+msgid "lich"
+msgstr ""
+
+#. [campaign]: id=Girl_unDead
+#: _main.cfg:17
+msgid "(easy)"
+msgstr ""
+
+#. [about]
+#: _main.cfg:24
+msgid "Campaign Designer"
+msgstr ""
+
+#. [about]
+#: _main.cfg:29
+msgid "Current Maintainer"
+msgstr ""
+
+#. [about]
+#: _main.cfg:34
+msgid "Mentor to English Translation"
+msgstr ""
+
+#. [about]
+#: _main.cfg:39
+msgid "Translation to Japanese"
+msgstr ""
+
+#. [about]
+#: _main.cfg:44
+msgid "Translation to Czech"
+msgstr ""
+
+#. [about]
+#: _main.cfg:49
+msgid "Translation to Russian"
+msgstr ""
+
+#. [scenario]: id=01_death
+#: scenarios/01_death.cfg:6
+msgid "Death"
+msgstr ""
+
+#. [scenario]: id=01_death
+#: scenarios/01_death.cfg:12
+msgid "Why have you come? Go away!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#. [scenario]: id=01_death
+#: scenarios/01_death.cfg:12 scenarios/01_death.cfg:13 scenarios/01_death.cfg:14 scenarios/01_death.cfg:15 scenarios/02_escape.cfg:584 scenarios/04_training.cfg:184 scenarios/04_training.cfg:200 scenarios/06_revenge.cfg:359 scenarios/sandbox.cfg:169 scenarios/sandbox.cfg:185
+msgid "I'm sorry."
+msgstr ""
+
+#. [scenario]: id=01_death
+#: scenarios/01_death.cfg:13
+msgid "Kid, you are strange and troubling."
+msgstr ""
+
+#. [scenario]: id=01_death
+#: scenarios/01_death.cfg:14
+msgid "Hey, you are dangerous! Get lost!"
+msgstr ""
+
+#. [scenario]: id=01_death
+#: scenarios/01_death.cfg:15
+msgid "We won't play with you because my Mom says you are not a normal human.  Go home!"
+msgstr ""
+
+#. [side]
+#. [side]: id=Malica
+#. [side]: id=Malica, type=Harfdead Child
+#. [side]: id=Malica, type=Lady Lich
+#. [side]: id=Malica, type=Lady Prelich
+#. [side]: type=Harfdead Child, id=Malica
+#. [side]: type=Malica, id=Malica
+#. [unit_type]: id=Malica, race=human
+#: scenarios/01_death.cfg:29 scenarios/01_death.cfg:33 scenarios/02_escape.cfg:54 scenarios/02_escape.cfg:58 scenarios/03_cave_of_undead.cfg:19 scenarios/03_cave_of_undead.cfg:20 scenarios/04_training.cfg:25 scenarios/04_training.cfg:29 scenarios/05_invasion.cfg:34 scenarios/05_invasion.cfg:38 scenarios/06_revenge.cfg:21 scenarios/07_along_the_way.cfg:79 scenarios/08.5_gulf.cfg:30 scenarios/08_puppeteer.cfg:19 scenarios/09_sanctuary.cfg:21 scenarios/10_a_long_day.cfg:43 scenarios/11_intrusion.cfg:30 scenarios/12_castle.cfg:25 scenarios/13_epilogue.cfg:22 scenarios/sandbox.cfg:25 scenarios/sandbox.cfg:29 units/humans/Malica.cfg:7
+msgid "Malica"
+msgstr ""
+
+#. [side]
+#. [unit]: type=Free Mage, id=Mother
+#: scenarios/01_death.cfg:45 scenarios/01_death.cfg:51 scenarios/02_escape.cfg:69 scenarios/02_escape.cfg:75
+msgid "Mom"
+msgstr ""
+
+#. [side]
+#: scenarios/01_death.cfg:61 scenarios/02_escape.cfg:132
+msgid "beasts"
+msgstr ""
+
+#. [side]: (id=child_1)}, (id=child_2)}, (id=child_3)}, (id=child_4)}
+#: scenarios/01_death.cfg:82
+msgid "villeger"
+msgstr ""
+
+#. [part]
+#: scenarios/01_death.cfg:102
+msgid "Among mages there are those who choose the way of love for freedom.  And these live quietly alone or live as travelers belonging nowhere."
+msgstr ""
+
+#. [part]
+#: scenarios/01_death.cfg:105
+msgid "They earn a livelihood solely by treating illness or injury.  But people do not respect them as they do white mages.  They are feared as black magicians and regarded with contempt.  Therefore, people usually ignore their existence, except when they need healing."
+msgstr ""
+
+#. [part]
+#: scenarios/01_death.cfg:108
+msgid "So these mages don't live in one place for long, and the inhabitants usually are unaware what they are because they had moved on before being discovered."
+msgstr ""
+
+#. [part]
+#: scenarios/01_death.cfg:111
+msgid "Such a life was difficult, but from such freedom they might attain magic far beyond that of the ordinary mage."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/01_death.cfg:119
+msgid "Search the village."
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_death.cfg:123
+msgid "Do nothing."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:133
+msgid "Mom I'm going out to play."
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/01_death.cfg:137
+msgid "Have a nice time, but avoid the eastern swamps because I sense danger there."
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/01_death.cfg:150
+msgid "Oh, back already.  You can play outside because the sun is still bright."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:154
+msgid "Okay, Mom."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:158
+msgid "I am curious about the swamp.  I have heard there is a mysterious old shrine over there."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:162
+msgid "But Mom will be angry if she catches me.  What should I do?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:225
+msgid "Oh!  Venomous creatures!  I better run!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:246
+msgid "I've reached the shrine, but there is not much here.  I can get back before dark."
+msgstr ""
+
+#. [unit]: type=Red Mage, id=Oldman
+#: scenarios/01_death.cfg:274
+msgid "Oldman"
+msgstr ""
+
+#. [message]: speaker=Oldman
+#: scenarios/01_death.cfg:278
+msgid "Hi.  Little girl."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:282
+msgid "Hi.  I do not know you."
+msgstr ""
+
+#. [message]: speaker=Oldman
+#: scenarios/01_death.cfg:286
+msgid "I have traveled here from afar.  I seem, however, to have lost my way.  Is there not an old shrine nearby?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:290
+msgid "There is."
+msgstr ""
+
+#. [message]: speaker=Oldman
+#: scenarios/01_death.cfg:294
+msgid "Good to hear.  Will you please guide me there?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:298
+msgid "But, my mom forbid me to go there... "
+msgstr ""
+
+#. [message]: speaker=Oldman
+#: scenarios/01_death.cfg:302
+msgid "Even so, you cannot resist my wish."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:310
+msgid "My body is moving on its own!"
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/01_death.cfg:322
+msgid "What now?  I felt strong magic."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:327
+msgid "I've reached the shrine.  What do we do? Oh, the old man is not here ...."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:331
+msgid "It is getting dark.  Mom will be angry."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/01_death.cfg:345
+msgid "Mom!  Help!"
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/01_death.cfg:349
+msgid "Malica!  Something bad has happened to her!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_death.cfg:354
+msgid "So, it is as I suspected."
+msgstr ""
+
+#. [scenario]: id=02_escape
+#: scenarios/02_escape.cfg:5
+msgid "Escape"
+msgstr ""
+
+#. [side]
+#: scenarios/02_escape.cfg:86
+msgid "Villager"
+msgstr ""
+
+#. [side]
+#: scenarios/02_escape.cfg:107
+msgid "Strange Mage"
+msgstr ""
+
+#. [side]
+#. [side]: id=Varas, type=Ancient Lich
+#. [unit]: type=Revenant, id=undead
+#: scenarios/02_escape.cfg:125 scenarios/02_escape.cfg:511 scenarios/03_cave_of_undead.cfg:29 scenarios/03_cave_of_undead.cfg:67
+msgid "undead"
+msgstr ""
+
+#. [part]
+#: scenarios/02_escape.cfg:144
+msgid "Malica did not know how long she had slept.  She felt as if she could look within a nightmare, one that was painful enough to make her wonder whether it really occurred, although she could not remember anything about it."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_escape.cfg:152
+msgid "Malica reaches northern signpost"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_escape.cfg:156 scenarios/04_training.cfg:146 scenarios/05_invasion.cfg:182 scenarios/06_revenge.cfg:325 scenarios/06_revenge.cfg:565 scenarios/06_revenge.cfg:767 scenarios/08.5_gulf.cfg:122 scenarios/08_puppeteer.cfg:95 scenarios/09_sanctuary.cfg:221 scenarios/10_a_long_day.cfg:91 scenarios/11_intrusion.cfg:175 scenarios/12_castle.cfg:263 scenarios/12_castle.cfg:601 scenarios/sandbox.cfg:131
+msgid "Death of Malica"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_escape.cfg:160 scenarios/04_training.cfg:154 scenarios/05_invasion.cfg:190 scenarios/06_revenge.cfg:333 scenarios/06_revenge.cfg:577 scenarios/06_revenge.cfg:783 scenarios/08.5_gulf.cfg:142 scenarios/08_puppeteer.cfg:115 scenarios/09_sanctuary.cfg:241 scenarios/10_a_long_day.cfg:99 scenarios/11_intrusion.cfg:199 scenarios/sandbox.cfg:139
+msgid "Turns run out"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:184
+msgid "Mom..."
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/02_escape.cfg:188
+msgid "You are awake.  Good."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:192
+msgid "Mom, what happened?  You look sad."
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/02_escape.cfg:196
+msgid "I am just a little tired."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:200
+msgid "Mom, I'm sorry that I went to the swamp."
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/02_escape.cfg:204
+msgid "All that happens, must happen.  I cannot blame you."
+msgstr ""
+
+#. [event]: id=Malica 22 38}, type=Ranger 25 40}, type=Outlaw 25 39}, type=Trapper 26 39}, (id=Village Leader) ai_special guardian}
+#: scenarios/02_escape.cfg:207
+msgid "Village Head"
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/02_escape.cfg:214
+msgid "Villagers are coming.  I wonder how they know already?"
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/02_escape.cfg:218
+msgid "Malica, go hide in the shade of the forest.  And then escape to the north. The villagers are afraid and will think you are a demon."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:230
+msgid "I'm confused.  I'm not a scary monster! "
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/02_escape.cfg:234
+msgid "Sorry, but I do not have time to explain everything.  Just escape through the shadows and avoid the sunlight."
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/02_escape.cfg:238
+msgid "You are little. So, you can hide yourself in bush."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:255
+msgid "I do not understand.  I cannot escape by myself!"
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/02_escape.cfg:264
+msgid "(The villagers have come.) Yes, I hear you.  I am coming. (Please stay hidden and be quiet.)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_escape.cfg:270
+msgid "Hey, it seems your daughter has recovered.  Where is she?"
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/02_escape.cfg:274
+msgid "I will not give her up."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_escape.cfg:279
+msgid "It smells of corruption and rot here.  I was not mistaken in suspecting you.  Search the woods and the house thoroughly."
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/02_escape.cfg:283
+msgid "You are wrong."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_escape.cfg:291
+msgid "Wrong?  I don't think so!  Such women should be burned at the stake.  Search quickly and then we'll cleanse this place."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:295
+msgid "Mom!  I should go to her.  But, she told me to escape.  I'm sorry, Mom."
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/02_escape.cfg:299
+msgid "Malica,  run!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:318
+msgid "It hurts!  The sun melts my skin."
+msgstr ""
+
+#. [message]: speaker=Village Leader
+#: scenarios/02_escape.cfg:356
+msgid "The girl is running away.  Pursue and kill her."
+msgstr ""
+
+#. [unit]: type=Red Mage, id=Old Mage
+#: scenarios/02_escape.cfg:395
+msgid "Old Mage"
+msgstr ""
+
+#. [message]: speaker=Old Mage
+#: scenarios/02_escape.cfg:401
+msgid "I was able to get the art of resurrection revealed thanks to that girl.  This is good, but with her half-hearted body she will not last long."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:414
+msgid "Oh, they're burning my house!  Mom!!"
+msgstr ""
+
+#. [message]: speaker=Old Mage
+#: scenarios/02_escape.cfg:445
+msgid "Well, my powers were not enough, but I will soon rise again."
+msgstr ""
+
+#. [message]: speaker=Old Mage
+#: scenarios/02_escape.cfg:450
+msgid "Villagers know too much, so I must get rid of all of them by Puppeteer."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:470
+msgid "What happened to me?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_escape.cfg:474
+msgid "Even in woods, Malica's skin and flesh melted by sun light."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:489
+msgid "Why did I have to be killed?"
+msgstr ""
+
+#. [message]: speaker=peasants
+#: scenarios/02_escape.cfg:504
+msgid "Beyond here there are monsters.  We won't go on."
+msgstr ""
+
+#. [message]: speaker=undead
+#: scenarios/02_escape.cfg:515
+msgid "What has happened?  Strange that a farmer would come to a place like this.  Kid, rotting in a place like this is not good for us."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:519
+msgid "Oh no!  Undead!!"
+msgstr ""
+
+#. [message]: speaker=undead
+#: scenarios/02_escape.cfg:523
+msgid "Huh?  You are undead, too.  Do you not know? "
+msgstr ""
+
+#. [message]: speaker=undead
+#: scenarios/02_escape.cfg:527
+msgid "There is no answer, she has fainted.  She is undead, yet she somehow still seems human.  Interesting, I think I'll take her home to our leader.  Her ear has melted and fallen off.  I'll take this earring, but I don't see the other one."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:542
+msgid "Oh no!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/02_escape.cfg:546
+msgid "Do you dare fight us humans!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_escape.cfg:556
+msgid "Rest in peace!  You must die!"
+msgstr ""
+
+#. [message]: speaker=Kingdom
+#. [message]: speaker=Malica
+#. [message]: speaker=Mermaid Princess
+#: scenarios/02_escape.cfg:560 scenarios/08.5_gulf.cfg:261 scenarios/08.5_gulf.cfg:357 scenarios/08.5_gulf.cfg:423
+msgid "No!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:570
+msgid "What happened?"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/02_escape.cfg:574
+msgid "This kid used some kind of magic."
+msgstr ""
+
+#. [message]: speaker=Village Leader
+#: scenarios/02_escape.cfg:588
+msgid "This kid is dangerous!  Kill her!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/02_escape.cfg:600 scenarios/02_escape.cfg:612 scenarios/02_escape.cfg:624
+msgid "Mom sorry. I can't go any more."
+msgstr ""
+
+#. [scenario]: id=03_cave_of_undead
+#: scenarios/03_cave_of_undead.cfg:5
+msgid "Cave of the Undead"
+msgstr ""
+
+#. [side]: id=Varas, type=Ancient Lich
+#: scenarios/03_cave_of_undead.cfg:31
+msgid "Boss of the Undead"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/03_cave_of_undead.cfg:49 scenarios/07_along_the_way.cfg:93 scenarios/13_epilogue.cfg:31
+msgid "Only conversation"
+msgstr ""
+
+#. [message]: speaker=undead
+#: scenarios/03_cave_of_undead.cfg:71
+msgid "Boss.  I have brought something unusual."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:75
+msgid "Huh?  Did you pick up a dead cat?  Show me anyway."
+msgstr ""
+
+#. [message]: speaker=undead
+#: scenarios/03_cave_of_undead.cfg:79
+msgid "It's not a dead cat.  Take a look."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/03_cave_of_undead.cfg:87
+msgid "Where am I?"
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:91
+msgid "Oh, this child is unusual."
+msgstr ""
+
+#. [message]: speaker=undead
+#: scenarios/03_cave_of_undead.cfg:95
+msgid "Yeah.  I think she ran away from villagers at the Swamp of No Return."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:99
+msgid "Girl, who are you?"
+msgstr ""
+
+#. [message]: speaker=undead
+#: scenarios/03_cave_of_undead.cfg:103
+msgid "Don't be afraid.  He looks scary, but won't eat you."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:107
+msgid "SHUT UP!  Let her speak."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/03_cave_of_undead.cfg:111
+msgid "My name is Malica.  I am the daughter of Nina."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:115
+msgid "Well, daughter of Nina.  How did you die?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/03_cave_of_undead.cfg:119
+msgid "I was attacked by monsters in the swamp.  When I woke up, I was chased by the villagers.  And my mother...Oh Mama!!"
+msgstr ""
+
+#. [message]: speaker=undead
+#: scenarios/03_cave_of_undead.cfg:123
+msgid "Oh, she is crying.  I don't like children.  Undead shouldn't cry."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/03_cave_of_undead.cfg:127
+msgid "...Mom! ...Mom..."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:131
+msgid "She can't talk now.  I can see that magic made her undead.  I wish to observe her for a while.  You will take care of her."
+msgstr ""
+
+#. [message]: speaker=undead
+#: scenarios/03_cave_of_undead.cfg:135
+msgid "I?  Heck no!  I can't take care of her!"
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:139
+msgid "Ha!  Haven't you brought her here?  You will take care of her.  I need to know your name in order to summon you.  Do you remember your name before you died?"
+msgstr ""
+
+#. [message]: speaker=undead
+#: scenarios/03_cave_of_undead.cfg:144
+msgid "My name?  I have no memory of being alive."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:148
+msgid "Well then, I will call you Poet because you talk too much."
+msgstr ""
+
+#. [event]: (type=Revenant) side 1}, (type=Revenant) id (Poet)}
+#. [unit]: type=Revenant Loyal, id=Poet
+#: scenarios/03_cave_of_undead.cfg:151 scenarios/04_training.cfg:163 scenarios/sandbox.cfg:148
+msgid "Poet"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/03_cave_of_undead.cfg:154
+msgid "Oh, I feel tears of joy because I have a good name."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:158
+msgid "It is you who said the undead don't cry.  And after Malica falls asleep, I want you to explore the village."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/03_cave_of_undead.cfg:162
+msgid "You speak of her as if she is your daughter."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:166
+msgid "That's a good idea.  I am adopting her."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/03_cave_of_undead.cfg:170
+msgid "I cannot believe this!"
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:174
+msgid "That's not important.  Remember to search the village."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/03_cave_of_undead.cfg:178
+msgid "Yes sir.  Oh, I forgot.  Here is a dirty earring."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/03_cave_of_undead.cfg:182
+msgid "It's mine.  Please return it to me!"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/03_cave_of_undead.cfg:186
+msgid "Oh, so you do speak."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/03_cave_of_undead.cfg:190
+msgid "My mother gave me that.  There was only one."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:194
+msgid "Show me that earring."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/03_cave_of_undead.cfg:198
+msgid "I didn't know you like jewels."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:202
+msgid "I don't ... Return it to Malica."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/03_cave_of_undead.cfg:206
+msgid "But she does not have ears anymore.  We could use string ... make a necklace ... you still have a neck."
+msgstr ""
+
+#. [message]: speaker=Malica
+#. [message]: speaker=Merman King
+#: scenarios/03_cave_of_undead.cfg:210 scenarios/08.5_gulf.cfg:378
+msgid "Thank you."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/03_cave_of_undead.cfg:214
+msgid "That's the first time in my undead life I've been thanked."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/03_cave_of_undead.cfg:218
+msgid "I doubt you were ever thanked while alive."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/03_cave_of_undead.cfg:222
+msgid "Sure.  Oh, I'm going now to explore the village."
+msgstr ""
+
+#. [scenario]: id=04_training
+#: scenarios/04_training.cfg:7
+msgid "Training"
+msgstr ""
+
+#. [side]: id=Garak, type=Great Troll
+#: scenarios/04_training.cfg:41 scenarios/sandbox.cfg:46
+msgid "dessart troll"
+msgstr ""
+
+#. [side]
+#: scenarios/04_training.cfg:72 scenarios/sandbox.cfg:77
+msgid "Beasts"
+msgstr ""
+
+#. [part]
+#: scenarios/04_training.cfg:119
+msgid "Poet searched the village and reported a surprising fact."
+msgstr ""
+
+#. [part]
+#: scenarios/04_training.cfg:122
+msgid "There were no villagers, and soldiers of the Kingdom were burning down every building."
+msgstr ""
+
+#. [part]
+#: scenarios/04_training.cfg:125
+msgid "That night, he captured a soldier to find out what was going on.  The soldier said every villager had become a walking corpse, so the corpses and village were being burned up."
+msgstr ""
+
+#. [part]
+#: scenarios/04_training.cfg:128
+msgid "Poet asked about Malica's mother, but the soldier knew nothing about her.  There was only a field where the house had stood."
+msgstr ""
+
+#. [part]
+#: scenarios/04_training.cfg:131
+msgid "The village was never rebuilt."
+msgstr ""
+
+#. [part]
+#: scenarios/04_training.cfg:134
+msgid "When Malica heard this, she became inconsolable.  But slowly, she got used to her new life among the undead.  Although the undead lacked human feelings, Varas and Poet were kind in comparison to how the villagers had treated her."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/04_training.cfg:142 scenarios/sandbox.cfg:127
+msgid "Leave the valley"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/04_training.cfg:150 scenarios/05_invasion.cfg:186 scenarios/06_revenge.cfg:329 scenarios/06_revenge.cfg:569 scenarios/06_revenge.cfg:771 scenarios/08.5_gulf.cfg:126 scenarios/08_puppeteer.cfg:99 scenarios/09_sanctuary.cfg:225 scenarios/11_intrusion.cfg:183 scenarios/12_castle.cfg:267 scenarios/12_castle.cfg:605 scenarios/12_castle.cfg:775 scenarios/12_castle.cfg:951 scenarios/sandbox.cfg:135
+msgid "Death of Poet"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/04_training.cfg:176 scenarios/sandbox.cfg:161
+msgid "I miss the cave.  With only you in a place like this I feel lonely."
+msgstr ""
+
+#. [message]: speaker=Poet
+#. [message]: type=Vampire Bat
+#: scenarios/04_training.cfg:180 scenarios/sandbox.cfg:165
+msgid "Sorry I can't help, but because you are weak the Boss said we must train"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:188 scenarios/sandbox.cfg:173
+msgid "No need to apologize."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/04_training.cfg:192 scenarios/sandbox.cfg:177
+msgid "I wonder if I can do this? ..."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:196 scenarios/sandbox.cfg:181
+msgid "Are you crying again?  Where do you keep tears in a dry skull?  We have no time for crying as we must rid this valley of the monsters."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:204 scenarios/sandbox.cfg:189
+msgid "Stop apologizing!  Let's do what we are here for and then we can go home."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/04_training.cfg:208 scenarios/sandbox.cfg:193
+msgid "I'm so... Yes, I should become stronger for Dad."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:215 scenarios/sandbox.cfg:200
+msgid "Trolls!  No one said that dirty trolls were here.  We must get to the fortress to the north or we will be overpowered."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:230 scenarios/sandbox.cfg:215
+msgid "Good!  There is the old fort.  My Princess, summon your minions there."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/04_training.cfg:234 scenarios/sandbox.cfg:219
+msgid "I don't know if I can?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:238 scenarios/sandbox.cfg:223
+msgid "You can, and we need help to win this fight."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:250 scenarios/sandbox.cfg:235
+msgid "You did well, my Princess."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:265 scenarios/sandbox.cfg:250
+msgid "We did it."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/04_training.cfg:269 scenarios/sandbox.cfg:254
+msgid "Thank you.  I needed your help."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:273 scenarios/sandbox.cfg:258
+msgid "But you haven't grown much stronger."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/04_training.cfg:277 scenarios/sandbox.cfg:262
+msgid "I'm so..."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:281 scenarios/sandbox.cfg:266
+msgid "Do not say sorry!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/04_training.cfg:297 scenarios/sandbox.cfg:282
+msgid "Dad, Poet, I'm sorry I was not strong."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:301 scenarios/sandbox.cfg:286
+msgid "Annoying!  Do not say sorry, my Princess."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/04_training.cfg:305 scenarios/sandbox.cfg:290
+msgid "Sorry, sorry... "
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:319 scenarios/sandbox.cfg:304
+msgid "I can not believe I've been defeated."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/04_training.cfg:323 scenarios/sandbox.cfg:308
+msgid "I was too weak to help ... I'm sorry."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/04_training.cfg:327 scenarios/sandbox.cfg:312
+msgid "Do not say sorry, my Princess..."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/04_training.cfg:331 scenarios/sandbox.cfg:316
+msgid "Poet! Do no die!"
+msgstr ""
+
+#. [scenario]: id=05_invasion
+#: scenarios/05_invasion.cfg:6
+msgid "Invasion from Orcs"
+msgstr ""
+
+#. [part]
+#: scenarios/05_invasion.cfg:20
+msgid "Malica's training continued, but her progress was slow and disappointed Varas and Poet.  Still, she was the adopted daughter of Varas and so, for good or bad, the other undead never doubted her abilities to lead."
+msgstr ""
+
+#. [part]
+#: scenarios/05_invasion.cfg:23
+msgid "Soon, Malica was ordered by Varas to explore the Northern Valley.  She departed with Poet and her soldiers."
+msgstr ""
+
+#. [part]
+#: scenarios/05_invasion.cfg:26
+msgid "She had a foreboding feeling about this mission.  Ignoring the advice and pleadings of Poet who insisted that they finish their mission there first, she returned to the cave."
+msgstr ""
+
+#. [side]: id=Orcs, type=Orcish Sovereign
+#: scenarios/05_invasion.cfg:55
+msgid "Orc"
+msgstr ""
+
+#. [side]: id=Varas, type=Ancient Lich
+#: scenarios/05_invasion.cfg:99
+msgid "Undead"
+msgstr ""
+
+#. [side]: id=Varas, type=Ancient Lich
+#: scenarios/05_invasion.cfg:101
+msgid "Varas"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/05_invasion.cfg:178 scenarios/06_revenge.cfg:321 scenarios/06_revenge.cfg:561 scenarios/06_revenge.cfg:763
+msgid "Defeat enemy leader"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:206
+msgid "Orcs here?  What is happening?  Is that a portal behind the throne?"
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/05_invasion.cfg:210
+msgid "Poet, what are you doing here?  You were to escape North with Malica."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/05_invasion.cfg:214
+msgid "I am sorry.  She wouldn't listen to me."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:218
+msgid "Dad!  What is happening here?"
+msgstr ""
+
+#. [message]: speaker=Orcs
+#: scenarios/05_invasion.cfg:222
+msgid "There she is!  The one we've been looking for."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:226
+msgid "...Me?"
+msgstr ""
+
+#. [message]: speaker=Orcs
+#: scenarios/05_invasion.cfg:230
+msgid "Lady, come to us and we will leave and do no further harm."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/05_invasion.cfg:234
+msgid "Malica, don't believe them.  They are lying.  Just run..."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/05_invasion.cfg:238
+msgid "We don't have a much of a chance fighting.  Listen to your father, escape with us."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:242
+msgid "No!  I can't just leave him here.  Run away if you want, but I'll save Father or die trying."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/05_invasion.cfg:246
+msgid "You're going to die here with him then, damn it!"
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/05_invasion.cfg:250
+msgid "Malica, run!  Poet, force her to leave."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:254
+msgid "I'm sorry, Dad.  But I can't leave you here!"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/05_invasion.cfg:258
+msgid "This is foolishness, Malica.  But I am still her minion, not yours, Lord.  I must follow her orders."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/05_invasion.cfg:266
+msgid "Human mages along side orcs?  These are strange times.  Worse yet, from their robes, I think they are in service to the throne!"
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/05_invasion.cfg:277 scenarios/05_invasion.cfg:333
+msgid "So this is my end?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:281 scenarios/05_invasion.cfg:337
+msgid "Dad... I couldn't save you..."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/05_invasion.cfg:285
+msgid "Malica, don't worry.  Destruction for our kind is repose.  Show me your earring; I would have that as my final vision."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:289 scenarios/05_invasion.cfg:345
+msgid "Here."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/05_invasion.cfg:293 scenarios/05_invasion.cfg:349
+msgid "Veronica... "
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:297
+msgid "Dad!!  Orcs!  I will have my revenge!"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/05_invasion.cfg:301
+msgid "Oh, this would be birth of a new queen, but she lacks the strength."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:318
+msgid "What is your purpose here?"
+msgstr ""
+
+#. [message]: speaker=Orcs
+#: scenarios/05_invasion.cfg:322
+msgid "Human has gived us gold.  I don't know more..."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:326 scenarios/05_invasion.cfg:374
+msgid "He died...."
+msgstr ""
+
+#. [message]: speaker=Varas
+#: scenarios/05_invasion.cfg:341
+msgid "Malica, don't worry.  Destruction for our kind is repose. Show me your earring; I would have that as my final vision."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:356
+msgid "Dad!!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:363
+msgid "You came here for me and slew my father.  What is your purpose here?"
+msgstr ""
+
+#. [message]: speaker=Orcs
+#: scenarios/05_invasion.cfg:367
+msgid "Human has gived us gold. I don't know more..."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/05_invasion.cfg:380
+msgid "My Pricess, what shall we do?  If we stay here, they will come back with greater numbers.  We must escape to the western valley, and rebuild the camp."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:384
+msgid "I cannot run away."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/05_invasion.cfg:388
+msgid "From what?  There are few of us here and nothing we can do will bring your father back.  I do not want to die in vain."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:392
+msgid "You're barely alive. Run away, if you want.  I don't care. I am going to take the fight to them.  I want to know why they want me.  Besides, I do not think any escape would last for long."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/05_invasion.cfg:396
+msgid "Alas!  You are as stubborn as your old father.  I will follow where you lead."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/05_invasion.cfg:400
+msgid "Thank you Poet!  I did not want to have to do this alone."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/05_invasion.cfg:404
+msgid "Very well!"
+msgstr ""
+
+#. [scenario]: id=06_revenge, id=Orcs (
+#: scenarios/06_revenge.cfg:6
+msgid "Revenge"
+msgstr ""
+
+#. [side]: id=Orcs, type=Orcish Sovereign, (id=Orcs) max_moves 1}
+#: scenarios/06_revenge.cfg:36
+msgid "Orcs"
+msgstr ""
+
+#. [side]
+#: scenarios/06_revenge.cfg:203
+msgid "Elves"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:347
+msgid "We have arrived, and from somewhere the smell of humans arises."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:351
+msgid "We must go forward."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:355
+msgid "You've seem to have become our leader, my Princess, but I wish you were stronger..."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:363
+msgid "Do not apologize!  You must lead us. I will conceal your weakness."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:367
+msgid "I'm so... Yes. I will!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/06_revenge.cfg:384
+msgid "Here! chief of the enemy!"
+msgstr ""
+
+#. [message]: speaker=Orcs
+#: scenarios/06_revenge.cfg:391
+msgid "Ha ha ha! Poor undeads!"
+msgstr ""
+
+#. [message]: speaker=Orcs
+#: scenarios/06_revenge.cfg:395
+msgid "Can you catch me?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:399
+msgid "Damn! We must find another way."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:429
+msgid "Oh, here is a poor elf."
+msgstr ""
+
+#. [unit]: id=Cyclos, type=Elvish Hero
+#: scenarios/06_revenge.cfg:437
+msgid "Cyclos"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:447
+msgid "You undead.  Are you with the orcs?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:451
+msgid "Oh, a bandit!"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:455
+msgid "... This is the first time I have been mistaken for a bandit."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:459
+msgid "Mmm... Please forget what she said.  Still, we shall kill you, then go kill these orcs."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:463
+msgid "Kill me!  I came here prepared for death.  but, orcs are my enemies too. How about make a trade between us?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:467
+msgid "A trade? You are joking.  There is nothing you, a captive, have that we want."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:471
+msgid "You are fighting the orcs, aren't you?  Their defense at the front is strong and will be difficult to break.  I know a secret passage."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:475
+msgid "Hm... The orcs like secret passages.  What do you want in return?"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:479
+msgid "The orcs have kidnapped the shamans of my village and have imprisoned them somewhere in this cave.  Help me free them."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:483
+msgid "It would be ridiculous to try to rescue the shamans.  No, your life is at an end."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:487
+msgid "My life is unimportant compared to theirs.  If you hurt one of them, I will kill you all."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:491
+msgid "Another joke!  You have balls.  I shall kill you now!"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:495
+msgid "Do so if you can, but you will never defeat the orcs."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:499
+msgid "Poet!  You elf!  Stop!!  The orcs are certainly stronger than us and a frontal attack will not succeed.  I promise we will not hurt your shamans.  Now lead us to the secret passage."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:503
+msgid "And I still demand your life."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:507
+msgid "Agreed.  My life is worth their rescue."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:511
+msgid "You underestimate the value of your life.  And what is your name?  I am Malica and this is Poet."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:515
+msgid "My name is Cyclos."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:519
+msgid "Cyclos.  Fitting name.  Sorry I mistook you for a bandit.  By the way, why are you looking at me so seriously?"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:523
+msgid "Sorry.  I saw woman undead for the first time.  And you're wearing a rare necklace."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:527
+msgid "Ah, it's my mother's earring.  But I have no longer ears.  So, Poet made it to necklace.  Oh, we must harry!  Let's go."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_revenge.cfg:532
+msgid "And thus Cyclos joined Malica's fighters."
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/06_revenge.cfg:573 scenarios/06_revenge.cfg:775 scenarios/08.5_gulf.cfg:130 scenarios/08_puppeteer.cfg:103 scenarios/09_sanctuary.cfg:229 scenarios/10_a_long_day.cfg:95 scenarios/11_intrusion.cfg:187 scenarios/12_castle.cfg:271 scenarios/12_castle.cfg:609 scenarios/12_castle.cfg:779 scenarios/12_castle.cfg:955
+msgid "Death of Cyclos"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#. [message]: speaker=second_unit
+#. [message]: speaker=unit
+#: scenarios/06_revenge.cfg:590 scenarios/06_revenge.cfg:844 scenarios/06_revenge.cfg:915
+msgid "Here is the secret passage."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:613 scenarios/06_revenge.cfg:855
+msgid "I have found you!...  But, where is Loana?  Loana?"
+msgstr ""
+
+#. [message]: role=Shaman
+#: scenarios/06_revenge.cfg:621 scenarios/06_revenge.cfg:863
+msgid "Oh, Cyclos.  The higher shamans like Loana have been taken away by soldiers of the Kingdom."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:625 scenarios/06_revenge.cfg:867
+msgid "No!!..."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:629 scenarios/06_revenge.cfg:871
+msgid "......"
+msgstr ""
+
+#. [unit]: id=Troll Child, type=Trollo Whelpo
+#: scenarios/06_revenge.cfg:649 scenarios/06_revenge.cfg:1072
+msgid "Runt"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:658 scenarios/06_revenge.cfg:1082
+msgid "There is a troll runt in a cage."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:662
+msgid "That is sad.  Free him."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:679
+msgid "Oh, it's going to join us.  Well, it needs a name, so let's call it Runt"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_revenge.cfg:684 scenarios/06_revenge.cfg:1099
+msgid "And thus Runt joined Malica's fighters."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_revenge.cfg:689
+msgid "(notice) If Troll Child dies, you lose."
+msgstr ""
+
+#. [unit]: id=Stella, type=Elvish Marksman
+#: scenarios/06_revenge.cfg:707
+msgid "Stella"
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/06_revenge.cfg:738
+msgid "Cyclos!  I'm glad you are safe and sound."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:742
+msgid "Stella!"
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/06_revenge.cfg:746
+msgid "Why are you acting in concert with these undead?"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:750
+msgid "I will tell you later.  Let's first slaughter these orcs."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/06_revenge.cfg:754
+msgid "I'm ready."
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/06_revenge.cfg:779 scenarios/08.5_gulf.cfg:134 scenarios/08_puppeteer.cfg:107 scenarios/09_sanctuary.cfg:233 scenarios/11_intrusion.cfg:191 scenarios/12_castle.cfg:275 scenarios/12_castle.cfg:613 scenarios/12_castle.cfg:783 scenarios/12_castle.cfg:959
+msgid "Death of Stella"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:799
+msgid "What luck!  The orc's gold."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:817
+msgid "Good fortune! Gold."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:880
+msgid "I think there might be a secret passage, but I cann't find."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:899
+msgid "Why have the orcs hidden this sword here?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:903
+msgid "It has a power of darkness.  It is useful to those who dwell in the dark, but it harms those who live in light.  Perhaps human mages hate it and so have hidden it."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:932
+msgid "Tell me why you killed my Dad, and pursued me."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:936
+msgid "Tell me where you have taken Loa.. the shamans."
+msgstr ""
+
+#. [message]: speaker=Orcs
+#: scenarios/06_revenge.cfg:940
+msgid "I cannot answer because I have sworn to secrecy."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:944
+msgid "He has died...  Again I have failed to find the answer."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:948
+msgid "Secrecy?  Ha!  My Princess, what do we do now?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:952
+msgid "All I know is that the King is involved.  There is no alternative; we must go to the Capital."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:956
+msgid "Don't you think to escape somewhere to live in peace?  Good, I'll follow you anywhere."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:960
+msgid "Oh, I forgot.  Hey, elvish kid."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:964
+msgid "I know.  My life is yours."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:968
+msgid "Yeah!  It has been too long since I last killed an elf."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:972
+msgid "Stop.  Poet, such jesting is unseemly.  Cyclos, do you really not regret dying now?"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:976
+msgid "I made the agreement."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:980
+msgid "By this agreement, we cannot kill you until we save all the elvish shamans.  And you are still obligated to aid us."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:984
+msgid "I will be your shield...  Good."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:988
+msgid "Damn!"
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/06_revenge.cfg:992
+msgid "Cyclos!  I will follow you."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/06_revenge.cfg:996
+msgid "Stella.  You must return with these shamans so our village will endure."
+msgstr ""
+
+#. [message]: speaker=Poet
+#. [message]: speaker=Stella
+#: scenarios/06_revenge.cfg:1000 scenarios/12_castle.cfg:448
+msgid "Ah..."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:1004
+msgid "... Stella, come with us.  It never hurts to have more allies."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/06_revenge.cfg:1008
+msgid "I will go not for you, but for Cyclos!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:1012
+msgid "All right."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:1036
+msgid "Elves have joined us, a troll runt comes with us.  What next?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:1042
+msgid "Elves have joined us.  What next?"
+msgstr ""
+
+#. [message]: role=Shaman
+#: scenarios/06_revenge.cfg:1054
+msgid "Cyclos, Stella, we are returning to our village.  We hope you are successful and come back safely."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/06_revenge.cfg:1086
+msgid "That is sad. Free him."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/06_revenge.cfg:1094
+msgid "Oh, it's going to join us.  Well, it needs a name, so let's call it Runt."
+msgstr ""
+
+#. [scenario]: id=07_along_the_way
+#: scenarios/07_along_the_way.cfg:7
+msgid "In the Forest"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:124
+msgid "Ah, Dad..."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/07_along_the_way.cfg:128
+msgid "Oh, she is thinking about Varas again."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:132
+msgid "Malica.  A sad leader lowers the morale of all."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:136
+msgid "I'm sorry.  But, I am ...  Ah,Dad!..."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/07_along_the_way.cfg:140
+msgid "I need earplugs.  Cyclos, you are right, but it only makes things worse."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:144
+msgid "Sorry."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:149
+msgid "Malica, I lost my father twice in battle."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:153
+msgid "Twice?"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:157
+msgid "The first time, however, he continued to live."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:161
+msgid "When I was little child, there was a fierce battle against the undead in the Dark Forest.  Only a few soldiers returned.  My father was not among them."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/07_along_the_way.cfg:166
+msgid "(Maybe I was in that fight.)"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:171
+msgid "Everyone thought he had died.  And because my mother was already dead, I was raised by my aunt."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:175
+msgid "Did that make you sad?"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:179
+msgid "Of course."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:183
+msgid "Did you cry?"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:187
+msgid "A little ... because I was so young."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:191
+msgid "Several years later he came back.  But he never spoke of what happened."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:195
+msgid "It was good to have your father return home safely."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:199
+msgid "I returned to live with him and he taught me how to wield a sword."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:203
+msgid "It was a battle against the undead at Thirsty Mountain.  And it became a fight more fierce than we anticipated."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/07_along_the_way.cfg:208
+msgid "(Maybe I was there.)"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:213
+msgid "I wanted to prove myself.  I took an opportunity to attack, but instead of success that undead warrior cut my eye."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:217
+msgid "I grieve for you!"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/07_along_the_way.cfg:222
+msgid "(Oh, ... I remember cutting a young elf.)"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:227
+msgid "Before that undead could kill me, my father intervened.  I survived, but that cruel undead monster killed him."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:231
+msgid "Oh, how terrible!"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/07_along_the_way.cfg:236
+msgid "(Surely I have killed his father!)"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:241
+msgid "My hatred for that undead warrior exists still.  If I find that undead, I will avenge my father!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:245
+msgid "If you find him, then I will help!"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/07_along_the_way.cfg:250
+msgid "(This boy is really stupid!  And Malica forgets that she herself is undead!  I shall not reveal that I killed his father.  It is fortunate that elves cannot discern between the faces of the undead.)"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:255
+msgid "Since that day, I have never shown weakness to others, Neither to enemies, nor to friends."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:259
+msgid "(I wonder if I can ever become strong like him?)"
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/07_along_the_way.cfg:264
+msgid "(Whispering) Malica?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:268
+msgid "Stella.  What?"
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/07_along_the_way.cfg:272
+msgid "The fact is that Cyclos was a terrible crybaby."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:276
+msgid "Really?"
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/07_along_the_way.cfg:280
+msgid "Yes.  We were childhood friends, so I know him well.  He would immediately start crying whenever we teased him.  It was funny, and he was very cute."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:284
+msgid "Well, Cyclos is.  And you were a bad girl."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/07_along_the_way.cfg:288
+msgid "Hahaha..."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:293
+msgid "Hey, what are you two whispering and laughing about?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/07_along_the_way.cfg:297
+msgid "Sorry, Cyclos, but it is not your business... HeeHee..."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/07_along_the_way.cfg:301
+msgid "Yes, Cyclos, never mind... Hahaha..."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/07_along_the_way.cfg:305
+msgid "I can understand men and the creatures of the forest, but women are veiled."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/07_along_the_way.cfg:310
+msgid "Malica no longer cried from that day on, at least in public."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/07_along_the_way.cfg:315
+msgid "Hey, we're out of the forest."
+msgstr ""
+
+#. [scenario]: id=08.5_gulf
+#: scenarios/08.5_gulf.cfg:7
+msgid "Gulf"
+msgstr ""
+
+#. [side]: id=Kindom3, type=Mage of Light
+#. [side]: id=Kingdom, type=Grand Knight
+#. [side]: id=Kingdom, type=Grand Marshal
+#. [side]: id=Kingdom, type=Halberdier
+#. [side]: id=Kingdom1, type=Royal Guard
+#. [side]: id=Kingdom2, type=Iron Mauler
+#. [side]: id=Kingdom3, type=Mage of Light
+#. [side]: id=Kingdom4, type=Paladin
+#. [side]: id=Kingdom4, type=Royal Guard
+#. [side]: id=Kingdom5, type=Iron Mauler
+#. [side]: id=Kingdom6, type=Mage of Light
+#: scenarios/08.5_gulf.cfg:43 scenarios/08_puppeteer.cfg:31 scenarios/09_sanctuary.cfg:37 scenarios/11_intrusion.cfg:43 scenarios/11_intrusion.cfg:82 scenarios/11_intrusion.cfg:124 scenarios/11_intrusion.cfg:155 scenarios/12_castle.cfg:101 scenarios/12_castle.cfg:124 scenarios/12_castle.cfg:139 scenarios/12_castle.cfg:154 scenarios/12_castle.cfg:204 scenarios/12_castle.cfg:245
+msgid "Royal Army"
+msgstr ""
+
+#. [side]: id=Mermaid Princess, type=Mermaid Enchantress
+#. [side]: id=Merman King, type=Merman Triton
+#: scenarios/08.5_gulf.cfg:91 scenarios/08.5_gulf.cfg:105
+msgid "Merman"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/08.5_gulf.cfg:118
+msgid "Malica reaches signpost"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/08.5_gulf.cfg:138 scenarios/08_puppeteer.cfg:111 scenarios/09_sanctuary.cfg:237 scenarios/11_intrusion.cfg:195 scenarios/12_castle.cfg:279 scenarios/12_castle.cfg:617 scenarios/12_castle.cfg:787 scenarios/12_castle.cfg:963
+msgid "Death of Troll Child"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08.5_gulf.cfg:170
+msgid "My Princess, we must cross this gulf to reach the sanctuary."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08.5_gulf.cfg:175
+msgid "All right.  How do you know so much about these lands."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08.5_gulf.cfg:179
+msgid "Uh... I can't hear you because of the wind... Look!  There are enemies in our way!"
+msgstr ""
+
+#. [message]: speaker=Kingdom
+#: scenarios/08.5_gulf.cfg:183
+msgid "Fight these undead with us."
+msgstr ""
+
+#. [message]: speaker=Merman King
+#: scenarios/08.5_gulf.cfg:187
+msgid "Yes we will.  We have long been your allies. "
+msgstr ""
+
+#. [message]: speaker=Mermaid Princess
+#: scenarios/08.5_gulf.cfg:191
+msgid "But this woman leading the undead hasn't harmed us, my father.  It is strange she fights against the big human Kingdom with a small army.  I think there might be a reason she shuld get to the Weldyn."
+msgstr ""
+
+#. [message]: speaker=Merman King
+#: scenarios/08.5_gulf.cfg:195
+msgid "All undead are evil and must be destroyed."
+msgstr ""
+
+#. [message]: speaker=Mermaid Princess
+#: scenarios/08.5_gulf.cfg:199
+msgid "I see."
+msgstr ""
+
+#. [message]: speaker=Kingdom
+#: scenarios/08.5_gulf.cfg:203
+msgid "Good.  I'm counting on you."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08.5_gulf.cfg:207
+msgid "Ha, let's kill all of them."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08.5_gulf.cfg:211
+msgid "No!  We need only cross the gulf.  Don't kill too much."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/08.5_gulf.cfg:227
+msgid "Great!  I'm far more accurate with a bow now."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08.5_gulf.cfg:231
+msgid "Don't celebrate.  You will soon see the curse's effect."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/08.5_gulf.cfg:245
+msgid "No!  I killed him, yet he walks."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08.5_gulf.cfg:249
+msgid "I warned you of the curse.  Now you know the cost."
+msgstr ""
+
+#. [message]: speaker=Merman King
+#: scenarios/08.5_gulf.cfg:265
+msgid "Ah! My daughter! Undead, I will never forgive you!"
+msgstr ""
+
+#. [message]: speaker=Merman King
+#: scenarios/08.5_gulf.cfg:353
+msgid "Ugh!"
+msgstr ""
+
+#. [message]: speaker=Merman King
+#: scenarios/08.5_gulf.cfg:366
+msgid "Undead, please don't kill my dauther."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08.5_gulf.cfg:370
+msgid "Hah!  I like fishing too much to stop now."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08.5_gulf.cfg:374
+msgid "Stop your joking, Poet.  We will allow your daughter to live if she stops fighting."
+msgstr ""
+
+#. [message]: speaker=Mermaid Princess
+#: scenarios/08.5_gulf.cfg:382
+msgid "I have no reason to fight you.  I am leaving."
+msgstr ""
+
+#. [message]: role=Grand Marshal
+#. [message]: speaker=Kingdom
+#: scenarios/08.5_gulf.cfg:403 scenarios/08.5_gulf.cfg:500
+msgid "Mermen! Don't run!"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08.5_gulf.cfg:407
+msgid "Ha ha.  Mermen don't run.  They swim!"
+msgstr ""
+
+#. [message]: speaker=Mermaid Princess
+#: scenarios/08.5_gulf.cfg:432
+msgid "Lady Lich, you don't seem evil.  I see no reason to fight you.  Bye."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08.5_gulf.cfg:466
+msgid "We got through. Now to the sanctuary."
+msgstr ""
+
+#. [message]: speaker=Mermaid Princess
+#: scenarios/08.5_gulf.cfg:475
+msgid "Lady Lich, You don't look so wrong.  We have no reason to battle each other.  Bye."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08.5_gulf.cfg:504
+msgid "Ha ha.  Of course, mermen don't run, they swim."
+msgstr ""
+
+#. [scenario]: id=08_puppeteer
+#. [unit]: type=Necromancer, id=Puppeteer
+#: scenarios/08_puppeteer.cfg:6 scenarios/08_puppeteer.cfg:285 scenarios/08_puppeteer.cfg:352
+msgid "Puppeteer"
+msgstr ""
+
+#. [side]
+#: scenarios/08_puppeteer.cfg:49
+msgid "Puppet"
+msgstr ""
+
+#. [side]: id=Bandits, type=Royal Warrior
+#: scenarios/08_puppeteer.cfg:63
+msgid "Desperado"
+msgstr ""
+
+#. [part]
+#: scenarios/08_puppeteer.cfg:74
+msgid "Malica had defeated the enemy, but she had failed to find the truth.  She knew only that the mages of the kingdom wanted elvish shamans and herself."
+msgstr ""
+
+#. [part]
+#: scenarios/08_puppeteer.cfg:77
+msgid "She and her soldiers traveled toward the capital to rescue the shamans and to learn why they wanted her."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/08_puppeteer.cfg:87
+msgid "Defeat the leader of the royal army"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/08_puppeteer.cfg:91
+msgid "(bonus)Defeat the leader of desperado"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/08_puppeteer.cfg:180
+msgid "A stench of death has been in the air for quite a while."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/08_puppeteer.cfg:184
+msgid "I am aware of it too."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:188
+msgid "It may be odor of our Princess."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:192
+msgid "Poet!  That's horrible.  Cyclos, you don't think that, do you?"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/08_puppeteer.cfg:196
+msgid "...Um, you do smell a little after the rain..."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:200
+msgid "No!!"
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/08_puppeteer.cfg:204
+msgid "Cyclos, you should be more circumspect when you speak."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/08_puppeteer.cfg:208
+msgid "Yes, I am sorry."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:212
+msgid "Cyclos, you are insensitive.  Stella, you agree, don't you?"
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/08_puppeteer.cfg:216
+msgid "It's not for me to say."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:220
+msgid "There are many corpses about.  These may be the cause of the odor.  Something has happened here."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/08_puppeteer.cfg:224
+msgid "They are annoying. I'll breke them."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:228
+msgid "We must be careful around them."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:232
+msgid "I feel unpleasant too."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#. [message]: speaker=Malica
+#. [message]: speaker=Poet
+#. [message]: speaker=Stella
+#: scenarios/08_puppeteer.cfg:236 scenarios/12_castle.cfg:407 scenarios/12_castle.cfg:432 scenarios/12_castle.cfg:520 scenarios/13_epilogue.cfg:142
+msgid "..."
+msgstr ""
+
+#. [message]: speaker=Kingdom
+#: scenarios/08_puppeteer.cfg:240
+msgid "Men, look about.  There are many corpses, so the one we seek must be near.  Oh, and there is the woman lich.  Catch her."
+msgstr ""
+
+#. [message]: speaker=Bandits
+#: scenarios/08_puppeteer.cfg:244
+msgid "Hey, do you still agree to let us join your army if we attack these corpses?"
+msgstr ""
+
+#. [message]: speaker=Kingdom
+#: scenarios/08_puppeteer.cfg:248
+msgid "Yes, but don't kill the woman lich."
+msgstr ""
+
+#. [message]: speaker=Bandits
+#: scenarios/08_puppeteer.cfg:252
+msgid "Okay."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:256
+msgid "We have no choice but to fight this army."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:260
+msgid "Okey."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/08_puppeteer.cfg:275
+msgid "Corpse, rest in peace!"
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:300
+msgid "One is a fool to touch any of my puppets."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:304
+msgid "Damn it!  That is Puppeteer, a troublesome enemy."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/08_puppeteer.cfg:308
+msgid "Why is he trouble?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:312
+msgid "You will soon know.  We must kill him to survive."
+msgstr ""
+
+#. [message]: speaker=Kingdom
+#: scenarios/08_puppeteer.cfg:316 scenarios/08_puppeteer.cfg:370
+msgid "There is Puppeteer.  Catch him!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/08_puppeteer.cfg:334
+msgid "Die, dirty corpse!"
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:366
+msgid "So you have found me, but you will regret having done so."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:374
+msgid "That is Puppeteer!  His army is quite troublesome."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/08_puppeteer.cfg:378
+msgid "He does not look so dangerous."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:382
+msgid "You will quickly learn that he is."
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:397
+msgid "You are Malica, are you not?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:401
+msgid "Why do you know me?"
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:405
+msgid "There is no time to explain, but I will say that you mother is alive.  She is in the King's castle.  Only I can tell your mother is alive.  Go to the King's castle."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:409
+msgid "Please tell me more!...  He died..."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/08_puppeteer.cfg:416
+msgid "Ah! My arms hurt!"
+msgstr ""
+
+#. [effect]: type=pierce
+#. [object]
+#: scenarios/08_puppeteer.cfg:419 scenarios/08_puppeteer.cfg:436 scenarios/08_puppeteer.cfg:631 scenarios/08_puppeteer.cfg:648
+msgid "cursed bow"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:451
+msgid "You have been cursed during this battle.  Now you must be careful when you attack anyone."
+msgstr ""
+
+#. [message]: speaker=$second_unit.id
+#: scenarios/08_puppeteer.cfg:477
+msgid "Oh! It revived!"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:481
+msgid "That is his strength.  As long as he lives, the corpses will revive."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/08_puppeteer.cfg:485
+msgid "Hmmm, his losses are not losses."
+msgstr ""
+
+#. [message]: speaker=Kingdom
+#: scenarios/08_puppeteer.cfg:517
+msgid "Alas!  I should have been bringing the eivish shaman from the sanctuary..."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#. [message]: speaker=Malica
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:521 scenarios/08_puppeteer.cfg:565 scenarios/13_epilogue.cfg:130
+msgid "What?"
+msgstr ""
+
+#. [message]: speaker=Kingdom
+#: scenarios/08_puppeteer.cfg:525
+msgid "Our mages are experimenting using elvish shamans in the sanctuary near here."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/08_puppeteer.cfg:529
+msgid "What a terrible thing it is!"
+msgstr ""
+
+#. [message]: speaker=Bandits
+#: scenarios/08_puppeteer.cfg:533
+msgid "The royal army has lost.  Let's get out of here!"
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:545
+msgid "Now, I'm free from the Kingdom.  And it is no use to battle each other we undead. Don't you think so, Lady Lich?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:549
+msgid "Yes, I think so, too."
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:553
+msgid "You must be Malica, daughter of Veronica and niece of Varas."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:557
+msgid "How do you know my name? My mother, however, was Nina and Varas was my father."
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:561
+msgid "Veronica was the real name of your mother.  She was Varas's sister."
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:569
+msgid "Yes, it is true.  I shall tell you what I know about it ..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/08_puppeteer.cfg:574
+msgid ""
+"Puppeteer explained that when he was young, there were three white mages with the potential to become the King's High Mage: Varas, Veronica, and Maltos.\n"
+"Randolf, the great mage of the Kingdom, was their teacher.\n"
+"One day, Varas and Veronica experimented with a magical spell suggested by Randolf.  It went wrong and Veronica became immortal while Varas became undead.  The two then disappeared. Maltos, who had loved Veronica, then turned to black mage and became the Puppeteer."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/08_puppeteer.cfg:581
+msgid "Randolf desired immortality.  He searched for Veronica (your mother Nina) many years and when finally he believed he found her, he caused the daughter to die because he knew that Veronica's clan had the secret of how to revive the dead.  Randolf then misled Puppeteer into thinking that all the people of the village must be killed if Veronica was to be safe."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/08_puppeteer.cfg:586
+msgid "Randolf did regain youthfulness through the power of Veronica, but this was not yet immortality.  Randolf then discovered that Malica was with Varas and he paid some orcs to seize her.  As part of his plan he felt he needed the healing power of elvish shamans, so he seized some and began to experiment.  In time Puppeteer figured out that Randolf had deceived him and had turned all the white mages against him."
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:590
+msgid "The elvish shamans are imprisoned in a sanctuary near here.  Malica, your mother is in the King's castle."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:594
+msgid "My mother alive!  Thank you.  Thank you so much.  First we'll rescue the shamans, then we go to Weldyn."
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:598
+msgid "I shall bestow a special skill on an archer."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/08_puppeteer.cfg:603
+msgid "I am an excellent archer."
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:607
+msgid "This skill is meant for neither human nor elf.  It is cursed with spells of the Chaos."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/08_puppeteer.cfg:611
+msgid "I care not. Please give me it."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/08_puppeteer.cfg:615
+msgid "Stella?  Think about this."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:619
+msgid "I think this skill will not be good for you."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/08_puppeteer.cfg:623
+msgid "I gladly take this risk to help Cyclos, ...and our tribe."
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:627
+msgid "I see.  I'll give it to you.  But be aware that it will erode both mind and body over time."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:664
+msgid "I really want to get to Weldyn, but since the sanctuary is near, we'll go there first."
+msgstr ""
+
+#. [message]: speaker=Puppeteer
+#: scenarios/08_puppeteer.cfg:668
+msgid "Pray for good fortune in this war."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:740
+msgid "What's that?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:748
+msgid "Oh! It's the legendary ring of Gold Angel."
+msgstr ""
+
+#. [message]: type=Dread Bat
+#. [message]: type=Gold Chocobone
+#. [message]: type=Silver Chocobone
+#: scenarios/08_puppeteer.cfg:753 scenarios/08_puppeteer.cfg:769 scenarios/08_puppeteer.cfg:785
+msgid "I'll follow you forever."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:757
+msgid "You should be very useful in battle."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:764
+msgid "Oh! It's the legendary ring of Silver Angel."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:773
+msgid "You should be useful in battle."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/08_puppeteer.cfg:780
+msgid "Hum, It's a ordinary ring."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/08_puppeteer.cfg:789
+msgid " doubt that you will be much help."
+msgstr ""
+
+#. [scenario]: id=09_sanctuary
+#: scenarios/09_sanctuary.cfg:6
+msgid "Sanctuary"
+msgstr ""
+
+#. [side]: id=Great Mage, type=Great Mage
+#. [side]: id=White Mage, type=Mage of Light
+#: scenarios/09_sanctuary.cfg:81 scenarios/09_sanctuary.cfg:95
+msgid "Royal Mage"
+msgstr ""
+
+#. [side]
+#: scenarios/09_sanctuary.cfg:206
+msgid "Corpse"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/09_sanctuary.cfg:217
+msgid "Defeat all the enemies leader"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/09_sanctuary.cfg:269
+msgid "That structure looks more like a fortress than a temple."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/09_sanctuary.cfg:273
+msgid "This region is as bright as the day though it is not yet dawn."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/09_sanctuary.cfg:277
+msgid "I sense strong magic here.  The Mages may be creating this light."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/09_sanctuary.cfg:281
+msgid "Will it hinder us?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/09_sanctuary.cfg:285
+msgid "I don't know.  I do know that we will be unwelcome."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/09_sanctuary.cfg:374 scenarios/09_sanctuary.cfg:478 scenarios/09_sanctuary.cfg:582
+msgid "Why there are so many corpses ?"
+msgstr ""
+
+#. [message]: speaker=Loana
+#: scenarios/09_sanctuary.cfg:383 scenarios/09_sanctuary.cfg:487 scenarios/09_sanctuary.cfg:591
+msgid "They once were shamans as me..."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/09_sanctuary.cfg:389 scenarios/09_sanctuary.cfg:493 scenarios/09_sanctuary.cfg:597
+msgid "... No! They were elvish shamans! Why?"
+msgstr ""
+
+#. [unit]: id=Loana, type=Elvish Shyde
+#. [unit]: type=Soulless, id=Loana_dead
+#: scenarios/09_sanctuary.cfg:772 scenarios/09_sanctuary.cfg:934 scenarios/09_sanctuary.cfg:1026
+msgid "Loana"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/09_sanctuary.cfg:801
+msgid "Loana!  I've come to save you."
+msgstr ""
+
+#. [message]: speaker=Loana
+#: scenarios/09_sanctuary.cfg:805
+msgid "Cyclos! Thank you.  I have hoped to see you for quite some time.  Unfortunately we cannot now return with you.  The hideous experiments we have suffered have made that impossible.  We will, however, fight alongside you so long as we can."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/09_sanctuary.cfg:810
+msgid "Defeat enemies leader."
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/09_sanctuary.cfg:814
+msgid "Death of Malica."
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/09_sanctuary.cfg:818
+msgid "Death of Poet."
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/09_sanctuary.cfg:822
+msgid "Death of Cyclos."
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/09_sanctuary.cfg:826
+msgid "Death of Stella."
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/09_sanctuary.cfg:830
+msgid "Death of Loana."
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/09_sanctuary.cfg:834
+msgid "Time over."
+msgstr ""
+
+#. [message]: speaker=$shaman_stored.id
+#: scenarios/09_sanctuary.cfg:884
+msgid "Ugh, sore..."
+msgstr ""
+
+#. [message]: speaker=$shaman_stored.name
+#. [message]: speaker=Loana_dead
+#: scenarios/09_sanctuary.cfg:902 scenarios/09_sanctuary.cfg:944 scenarios/09_sanctuary.cfg:1036
+msgid "Uuh...Uuh...Uuh..."
+msgstr ""
+
+#. [message]: speaker=Loana
+#: scenarios/09_sanctuary.cfg:913
+msgid "Cyclos, thank you again for coming.  I love you, but I must now say good bye."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/09_sanctuary.cfg:917
+msgid "Loana!  Think!  There must be some cure.  We'll go back home and figure this out!"
+msgstr ""
+
+#. [message]: speaker=Loana
+#: scenarios/09_sanctuary.cfg:921
+msgid "I thank you, but my time is over.  Good bye Cyclos...Ugh!!"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/09_sanctuary.cfg:948
+msgid "Loana...Why did it have to be you.."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/09_sanctuary.cfg:952
+msgid "Be gone!  All corpses by my hand!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/09_sanctuary.cfg:972
+msgid "Was what I did necessary?  I'm sorry, Cyclos, but corpses lose the memories of their former life.  They exist only in pain."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/09_sanctuary.cfg:976
+msgid "I know... Poet, our agreement is fulfilled. Kill me... please!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/09_sanctuary.cfg:980
+msgid "No!  Your life is now mine.  I will decide when you die. You elves need rest and I need to rebuild my army.  Is there a place nearby where we can hide?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/09_sanctuary.cfg:984
+msgid "At the foot of the Northern Mountains there is a place which human will not go.  They believe dangerous creatures exist there."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/09_sanctuary.cfg:988
+msgid "Poet, lead the way."
+msgstr ""
+
+#. [message]: speaker=Loana
+#: scenarios/09_sanctuary.cfg:1005
+msgid "Cyclos!  Thank you for coming to me.  I love you, but, I must now say good bye."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/09_sanctuary.cfg:1009
+msgid "Loana!  No!  There must be a cure.  Return home with me!"
+msgstr ""
+
+#. [message]: speaker=Loana
+#: scenarios/09_sanctuary.cfg:1013
+msgid "Thank you, but I have no more time.  Good bye, Cyclos...Ugh!!"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/09_sanctuary.cfg:1040
+msgid "Loana...Why you..."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/09_sanctuary.cfg:1044
+msgid "Vanish, all you corpses, by my hand!"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/09_sanctuary.cfg:1064
+msgid "Loana!!  No!!"
+msgstr ""
+
+#. [scenario]: id=10_a_long_day
+#: scenarios/10_a_long_day.cfg:6
+msgid "a long day"
+msgstr ""
+
+#. [side]
+#: scenarios/10_a_long_day.cfg:55
+msgid "Snow Monster"
+msgstr ""
+
+#. [part]
+#: scenarios/10_a_long_day.cfg:73
+msgid "Because Cyclos was sad from the loss of Loana and the other elves were tired from the fighting, they retreated into the mountains."
+msgstr ""
+
+#. [part]
+#: scenarios/10_a_long_day.cfg:76
+msgid "The freed shamans, strange to say, had ceased turning into undead.  It was thought that Malica's magical powers had cured them."
+msgstr ""
+
+#. [part]
+#: scenarios/10_a_long_day.cfg:79
+msgid "Although the shamans had been cured, their magical gift had turned toward something dark."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/10_a_long_day.cfg:87
+msgid "Kill the animals"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:127
+msgid "Are you sure this is a safe place to hide?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/10_a_long_day.cfg:131
+msgid "People fear this place, so few come.  But we may face some monsters."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:135
+msgid "We will rest here, but station guards at the entrance of this valley just in case."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:139
+msgid "Cyclos, the elves need food and I see a bear over there."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:149
+msgid "We do not butcher animals for food."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/10_a_long_day.cfg:153
+msgid "You look like you have no energy.  Better to hunt so you can regain your vigor."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:157
+msgid "I will go.  Stella, join me."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/10_a_long_day.cfg:161
+msgid "Yes I will, glad..."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/10_a_long_day.cfg:165
+msgid "(Stella! Wait!)"
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/10_a_long_day.cfg:169
+msgid "Ah... I better stay here to guard this magic bow."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:173
+msgid "Stella!  Thank you!  Cyclos, let's go."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/10_a_long_day.cfg:177
+msgid "Stella, you did the right thing.  Malica knows that you love Cyclos.  He is the only who who doesn't know.  She has an idea and wanted to be alone with him."
+msgstr ""
+
+#. [message]: speaker=Troll Child
+#: scenarios/10_a_long_day.cfg:181
+msgid "???"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/10_a_long_day.cfg:185
+msgid "Now, let's take a break in the ruin."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:220
+msgid "I feel some wonderful power arises when we are together.  Don't you?"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:224
+msgid "I feel it too.  Odd that we are attracted to each other although there is nothing in common between us."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:228
+msgid "Do you think that?  Consider that the decoration on your sword is very similar to my ...... "
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:232
+msgid "Wait.  Let's attack the bear together.  I feel somthing will happen then."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:236
+msgid "Sigh...All right."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/10_a_long_day.cfg:242
+msgid "Malica and Cyclos have a coordinated attack that occurs only if the two are adjacent."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:269 scenarios/10_a_long_day.cfg:294
+msgid "Oh, a yeti!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:273 scenarios/10_a_long_day.cfg:298
+msgid "Oh, how much meat can we get from the yeti?"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:277 scenarios/10_a_long_day.cfg:302
+msgid "Don't be stupid!  It is very dangerous!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:313
+msgid "We have killed the big beast."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:317
+msgid "Yes, but how do we take it back to our camp?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:321
+msgid "My soldiers will carry it later. Ah, this is a beautiful place, isn't it?"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:325
+msgid "Yes. I would not have thought there was a place like this at the foot of such a steep mountain ..."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:329
+msgid "I may forget the terrible battle...."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:333
+msgid "....."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:337
+msgid "You are thinking of Loana.  You would be with her now if we could have rescued her a little earlier.  I'm sorry."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:341
+msgid "Malica, don't worry.  I apologize that I was upset at the time. I still grieve about losing her, yet my heart becomes calm in your presence."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:345
+msgid "It is strange that we talk to one another, instead of being enemies."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:349
+msgid "Sure.  I dwell in darkness while you belong to a noble race."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:353
+msgid "Sometimes I forget you are undead.  And sometimes I feel I have long known you."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:357
+msgid "Yes, I feel we have some sort of connection..."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:361
+msgid "The sun will soon go down.  We must return to camp."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/10_a_long_day.cfg:365
+msgid "...Sorry, I speak too much.  Let's go."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/10_a_long_day.cfg:381
+msgid "Loana...forgive me..."
+msgstr ""
+
+#. [scenario]: id=11_intrusion
+#: scenarios/11_intrusion.cfg:7
+msgid "Intrusion"
+msgstr ""
+
+#. [part]
+#: scenarios/11_intrusion.cfg:19
+msgid "Because the guards at the King's castle were numerous and strong, Malica used the darkness of the night to sneak into the castle."
+msgstr ""
+
+#. [side]
+#: scenarios/11_intrusion.cfg:141
+msgid "Mermaid"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/11_intrusion.cfg:171
+msgid "Get as many units as possible through the castle's gate (Malica must enter last.)"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/11_intrusion.cfg:179
+msgid "Malica and the other heros fail to reach the gate"
+msgstr ""
+
+#. [note]
+#: scenarios/11_intrusion.cfg:203
+msgid "Maximum 23 units can enter the gate (Including Malica)."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/11_intrusion.cfg:239
+msgid "My Princess, we must enter the gate of the castle before morning."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/11_intrusion.cfg:244
+msgid "All right.  How do you know about this castle."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/11_intrusion.cfg:248
+msgid "Ah... I can't hear you say because it is too cold..."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/11_intrusion.cfg:263 scenarios/11_intrusion.cfg:277 scenarios/11_intrusion.cfg:291
+msgid "It's midnight now."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/11_intrusion.cfg:306 scenarios/11_intrusion.cfg:320 scenarios/11_intrusion.cfg:334
+msgid "Hurry! The sun rises."
+msgstr ""
+
+#. [message]: speaker=Mermaid Princess
+#: scenarios/11_intrusion.cfg:366
+msgid "Lady Lich, do you remember me?  I shall build a magical bridge to the castle.  You may cross the bridge."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/11_intrusion.cfg:375
+msgid "Mermaid Princess, thank you."
+msgstr ""
+
+#. [attack]: type=impact
+#. [effect]: type=impact
+#. [object]
+#: scenarios/11_intrusion.cfg:413 scenarios/11_intrusion.cfg:423 units/humans/Mage_Elder_White.cfg:133 units/humans/Mage_White.cfg:133
+msgid "staff"
+msgstr ""
+
+#. [effect]: type=pierce
+#. [object]
+#: scenarios/11_intrusion.cfg:435 scenarios/11_intrusion.cfg:445 scenarios/11_intrusion.cfg:490 scenarios/11_intrusion.cfg:500
+msgid "thorns"
+msgstr ""
+
+#. [effect]: type=impact
+#. [object]
+#: scenarios/11_intrusion.cfg:469 scenarios/11_intrusion.cfg:479
+msgid "faerie touch"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/11_intrusion.cfg:529
+msgid "Sorry!  I cann't enter the gate!"
+msgstr ""
+
+#. [scenario]: id=12_castle, id=Mother (, (id=Mother) max_moves 2}
+#: scenarios/12_castle.cfg:7
+msgid "Castle"
+msgstr ""
+
+#. [side]: id=White Elder Mage, type=White Elder Mage
+#. [unit]: type=Necrophage, id=Rotten Mage
+#: scenarios/12_castle.cfg:36 scenarios/12_castle.cfg:39 scenarios/12_castle.cfg:894
+msgid "White Elder Mage"
+msgstr ""
+
+#. [unit]: type=Free Mage, id=Mother
+#: scenarios/12_castle.cfg:50
+msgid "Mother"
+msgstr ""
+
+#. [side]: id=King, type=Royal Warrior
+#: scenarios/12_castle.cfg:61
+msgid "King"
+msgstr ""
+
+#. [side]: id=King, type=Royal Warrior
+#: scenarios/12_castle.cfg:64
+msgid "Royal Guard"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/12_castle.cfg:259 scenarios/12_castle.cfg:947
+msgid "Defeat the Elder Great Mage"
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:354
+msgid "My Lord, undead have come."
+msgstr ""
+
+#. [message]: speaker=King
+#: scenarios/12_castle.cfg:358
+msgid "Ha, they are stupid.  When I capture her, I shall be able to gain perpetual youth and immortality."
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:362
+msgid "Yes, my Lord. (Ha, you are the stupid one.)"
+msgstr ""
+
+#. [message]: speaker=King
+#: scenarios/12_castle.cfg:366
+msgid "And as we gain more immortal mages, our plan will be fulfilled faster.  Then we can eradicate all creatures of darkness."
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:370
+msgid "Yes, my Lord. (But you won't live to see it.)"
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/12_castle.cfg:374
+msgid "(Ah, Malica has come!  Disaster awaits her, but I can't help her.  Sorry, sorry Malica...)"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:379
+msgid "I've reached the castle, but I'm afraid to meet Mom because I am too ugly."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:383
+msgid "Don't worry.  Your soul is very beautiful.  And I think your mother must be very gentle and she loves you yet."
+msgstr ""
+
+#. [message]: speaker=Malica
+#. [message]: speaker=Mother
+#: scenarios/12_castle.cfg:387 scenarios/12_castle.cfg:544
+msgid "Thank you, Cyclos."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:391
+msgid "There is nothing more beautiful than a bare skull."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:395
+msgid "My Princess, Be careful. This castle is a labyrinth."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:399
+msgid "I see.  Poet, why are you familiar with this castle?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:403
+msgid "What?  I can't hear you because of the noise."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:420
+msgid "Oh, Mom!!"
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/12_castle.cfg:424
+msgid "Malica!!  I've dreamed of you seeing you again."
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:428
+msgid "Ha ha ha.  Such an impressive reunion.  But listen, undead girl, your mother is now on our side.  What are you going to do?"
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:436
+msgid "Gilgant, or Poet, you did a good job to bring the undead girl here."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:440
+msgid "Damn.  I did it not for you.  It's Malica's wish to come here."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:444
+msgid "What?  Pleace explain for me, Poet."
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:452
+msgid "I will explain in his place.  It was easy to find Varas, after he had disappeared.  But, I don't catch him, but I've send a  most faithful, most talented and most brutal soldier as a spy to Varas.  Because I wanted to not Varas but Veronica.  The name of the spy is Gilgant, he is now called Poet.  Come here, I will return you to original form."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:456
+msgid "No!  It isn't truth, Poet!"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:460
+msgid "Yes...  It's truth."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:464
+msgid "Oh..."
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:468
+msgid "Gilgant, Why did you stop report after we annihilated the village?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:472
+msgid "I noticed that you were wrong, when I knew what happened the village.  The King who must protect his people, harmed his people."
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:476
+msgid "Little evil is unavoidable for the greater good."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:480
+msgid "I cann't understand highly political things, but I know you did it only for your interest."
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:484
+msgid "Do you against me?  You shuld never return to human."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:488
+msgid "It's good!"
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:492
+msgid "SO BE IT!"
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:496
+msgid "Young elf."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:500
+msgid "Me?"
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:504
+msgid "Yes.  I teach you a good news.  The undead who killed your father is in front of you."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:508
+msgid "What do you mean?"
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:512
+msgid "Gilgant, no Poet is the undead!  Take revenge of your father with me."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:516
+msgid "Um..."
+msgstr ""
+
+#. [message]: speaker=Malica
+#. [message]: speaker=Stella
+#: scenarios/12_castle.cfg:524 scenarios/12_castle.cfg:528
+msgid "Cyclos..."
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/12_castle.cfg:532
+msgid "Cyclos, please help my daughter.  Defeat Randolf.  Never mind for me."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:536
+msgid "Mom!?"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:540
+msgid "Randolf, I defeat you with Malica.  I never lose whom I love any more."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:548
+msgid "Thank you..."
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:552 scenarios/12_castle.cfg:567
+msgid "You are fool to fight against me."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/12_castle.cfg:577
+msgid "My attack has no effect."
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:581
+msgid "Fool, I am invincible so long as the woman lives."
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/12_castle.cfg:585
+msgid "Malica, you must kill me!  The king intends to make a second sun.  If he does so, the balance of the world will be shattered."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:589
+msgid "No!  I can't kill you!"
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/12_castle.cfg:593
+msgid "Only a kinsman of mine is able to kill me.  That is you and no one else.  Now, be quick about it!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/12_castle.cfg:597
+msgid "Defeat Mother by Malica"
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:630
+msgid "Ha ha.  No one cna hurt me!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:650
+msgid "Ah, sorry, sorry Mom..."
+msgstr ""
+
+#. [message]: speaker=Mother
+#: scenarios/12_castle.cfg:654
+msgid "Malica, it's alright.  I thank you.  Good bye, Malica."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:661
+msgid "Mom!!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:665
+msgid "Mage Randolf, you are no longer immortal.  Surrender or die!"
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:669
+msgid "Ha Ha Ha.  The heads of undead are certainly empty.  Haven't you noticed, little girl, that you are already mine?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:673
+msgid "What?  Oh!  I can't move my body."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:727
+msgid "Argh!  My Princess no longer belongs to the night.  Randolf, what did you do to Malica?"
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:731
+msgid "She is now my captive, as her mother was.  Her gift of life is just as strong as her mother's was.  And since she has no family, no one can kill her.  Now I am immortal too."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:735
+msgid "Oh, Great Magi, although you appear young, your head is empty because you have lived too long."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:739
+msgid "That was unexpected, Malica speaks defiantly."
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:743
+msgid "Huh?  What do you mean?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:747
+msgid "My heart is bleeding because of you.  But I do have a  brother... Cyclos, kill me!"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:751
+msgid "Malica!?"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:755
+msgid "Your father was my father.  Look at this earring.  I know you possess its match."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:759
+msgid "I have been wondering... But I cannot kill my sister."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:763
+msgid "My body was destroyed long ago.  It is fated that my life disappear completely, just as it was for my mother.  Cyclos, please!!"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:767
+msgid "All right..."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/12_castle.cfg:771
+msgid "Defeat Malica by Cyclos"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:862
+msgid "Oh Malica! My sister!  Sorry, sorry..."
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:866
+msgid "Cyclos. It's alright.  Now, I can be with Mom again.  Bye Cyclos.  I love you."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:873
+msgid "Malica!!"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:877
+msgid "Randolf!  I kill you.  I never forgive you."
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:881
+msgid "Ha ha.  You are ridiculous, boy.  ..... Uh!  What is happening to my body?"
+msgstr ""
+
+#. [message]: speaker=Rotten Mage
+#: scenarios/12_castle.cfg:900
+msgid "No!....No!"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:904
+msgid "He has become repulsive to look at."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:908
+msgid "That is because his soul was eaten by desire."
+msgstr ""
+
+#. [message]: role=mage
+#: scenarios/12_castle.cfg:929
+msgid "Oh, there is a monster!"
+msgstr ""
+
+#. [message]: role=Kingdom
+#: scenarios/12_castle.cfg:937
+msgid "Kill it quickly!"
+msgstr ""
+
+#. [message]: speaker=Malica
+#: scenarios/12_castle.cfg:981
+msgid "I cann't go no more.  I'm sorry.  Good bye."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:985
+msgid "My Princess, don't say sorry!  don't say good bye!  Don't die!"
+msgstr ""
+
+#. [message]: speaker=$unit.id
+#: scenarios/12_castle.cfg:1017
+msgid "Die, monster!"
+msgstr ""
+
+#. [message]: speaker=Rotten Mage
+#: scenarios/12_castle.cfg:1021
+msgid "No!  I'm Randolf, the Elder White Mage!"
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:1025
+msgid "Stop!  I will kill him myself!!"
+msgstr ""
+
+#. [message]: speaker=Rotten Mage
+#: scenarios/12_castle.cfg:1037
+msgid "Alas!  I was meant to be filled with the light of all the world, not this."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/12_castle.cfg:1041
+msgid "He is dead, the one who took from me all whom I loved.  He died too easily... You, the men who aided him!  I will kill all of you!!"
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/12_castle.cfg:1045
+msgid "Cyclos! Stop! Stop!"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/12_castle.cfg:1049
+msgid "He is dangerous, deranged.  We must move away from him!"
+msgstr ""
+
+#. [message]: speaker=King
+#: scenarios/12_castle.cfg:1092
+msgid "Randolf, why aren't you helping me?"
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:1096
+msgid "Stupid King.  Many men can take your place, but I am special."
+msgstr ""
+
+#. [message]: speaker=King
+#: scenarios/12_castle.cfg:1100
+msgid "Guards, kill Randolf!"
+msgstr ""
+
+#. [message]: speaker=White Elder Mage
+#: scenarios/12_castle.cfg:1104
+msgid "Do you forget I am immortal?  Stupid King."
+msgstr ""
+
+#. [scenario]: id=13_epilogue
+#: scenarios/13_epilogue.cfg:6
+msgid "Epilogue"
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/13_epilogue.cfg:57
+msgid "Thank you, Poet. I now look kindly upon you."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/13_epilogue.cfg:61
+msgid "I did only what I wanted to do.  I did not do it for you."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/13_epilogue.cfg:65
+msgid "We shall reach our home tomorrow, but you must not accompany us to the village."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/13_epilogue.cfg:69
+msgid "I understand.  To tell the truth, I don't like elves."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/13_epilogue.cfg:73
+msgid "Ha ha ha, To tell the truth, it is difficult to spend time with you.  Still, I will feel lonely without you.  Where will you go?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/13_epilogue.cfg:77
+msgid "Somewhere desolate."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/13_epilogue.cfg:92
+msgid "I believe this troll will follow you."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/13_epilogue.cfg:96
+msgid "I do not think he will.  It was Malica he followed."
+msgstr ""
+
+#. [message]: speaker=Troll Child
+#: scenarios/13_epilogue.cfg:100
+msgid "? ? ?"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/13_epilogue.cfg:114
+msgid "What are you going to do now?"
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/13_epilogue.cfg:118
+msgid "I will take care of Cyclos."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/13_epilogue.cfg:122
+msgid "Indeed, he needs help, but that may be difficult."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/13_epilogue.cfg:126
+msgid "I know.  So, I have a request of you before you depart."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/13_epilogue.cfg:134
+msgid "Please cut off my cursed right arm.  I cannot return home with it."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/13_epilogue.cfg:138
+msgid "No!  I can't!  You will need both arms to help.  But you must hide the secret until you die."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/13_epilogue.cfg:146
+msgid "Sorry. I have come to hate killing and maiming. Being with Malica has changed me.  I'm now of no use to the undead."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/13_epilogue.cfg:162
+msgid "Stella!  Come!  Stella!"
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/13_epilogue.cfg:176
+msgid "Oh, he acts like a baby.  Stella, you will have a hard life."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/13_epilogue.cfg:180
+msgid "I know."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/13_epilogue.cfg:184
+msgid "Cry when you feel the need to cry.  Seek not to defeat weakness, but love weakness."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/13_epilogue.cfg:188
+msgid "I cannot understand what you say."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/13_epilogue.cfg:192
+msgid "Then forget it.  I am a philosopher, not a poet."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/13_epilogue.cfg:196
+msgid "Ha ha ha, thank you anyway."
+msgstr ""
+
+#. [message]: speaker=Poet
+#: scenarios/13_epilogue.cfg:200
+msgid "Night has fallen.  You must go to the baby Cyclos.  I say goodbye."
+msgstr ""
+
+#. [message]: speaker=Stella
+#: scenarios/13_epilogue.cfg:214
+msgid "Goodbye."
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: scenarios/13_epilogue.cfg:239
+msgid "Stella!  Where are you?"
+msgstr ""
+
+#. [scenario]: id=00_sandbox
+#: scenarios/sandbox.cfg:7
+msgid "Sandbox"
+msgstr ""
+
+#. [unit_type]: id=White Elder Mage, race=human
+#: units/humans/Mage_Elder_White.cfg:4
+msgid "Royal White Mage "
+msgstr ""
+
+#. [unit_type]: id=White Elder Mage, race=human
+#: units/humans/Mage_Elder_White.cfg:20
+msgid "Once great, Elder Magi have seen their power a little diminished from wearying years of battle. Nevertheless they remain feared on the battlefield on account of their powerful lightning bolts."
+msgstr ""
+
+#. [attack]: type=arcane
+#: units/humans/Mage_Elder_White.cfg:142 units/humans/Mage_White.cfg:142
+msgid "lightbeam"
+msgstr ""
+
+#. [female]
+#: units/humans/Mage_Elder_White.cfg:277 units/humans/Mage_White.cfg:277
+msgid "female^White Mage"
+msgstr ""
+
+#. [unit_type]: id=White Mage, race=human
+#: units/humans/Mage_White.cfg:4
+msgid "White Mage"
+msgstr ""
+
+#. [unit_type]: id=White Mage, race=human
+#: units/humans/Mage_White.cfg:19
+msgid ""
+"Some magi, as they learn about the world around them, and learn the truth of the suffering and squalor in which humanity too often lives, find that they cannot bring themselves to be cloistered into a life of study. These men and women give up the life of a mage, and join monastic orders, dedicating the skills they have been given to the good of all. After their ordination, they often travel the world, ministering to sickness and injury.\n"
+"\n"
+"Though not trained for combat, they are a potent ally against magical or unnatural things."
+msgstr ""
+
+#. [male]: race=human
+#. [unit_type]: id=Harfdead Child, race=undead
+#. [unit_type]: id=Malica, race=human
+#. [unit_type]: id=Peasant Child, race=human
+#. [variation]: id=Peasant Child, race=human
+#: units/humans/Malica.cfg:23 units/humans/Peasant_Child.cfg:22 units/humans/Peasant_Child.cfg:40 units/humans/Peasant_Child.cfg:207 units/s_undead/Harfdead_Child.cfg:23
+msgid "Young and fragile, children are easily finished."
+msgstr ""
+
+#. [attack]: type=blade
+#: units/humans/Malica.cfg:44 units/humans/Peasant_Child.cfg:62 units/humans/Peasant_Child.cfg:138 units/humans/Peasant_Child.cfg:228 units/s_undead/Harfdead_Child.cfg:44
+msgid "small knife"
+msgstr ""
+
+#. [male]: race=human
+#. [unit_type]: id=Peasant Child, race=human
+#. [variation]: id=Peasant Child, race=human
+#: units/humans/Peasant_Child.cfg:7 units/humans/Peasant_Child.cfg:25 units/humans/Peasant_Child.cfg:192
+msgid "Peasant Child"
+msgstr ""
+
+#. [female]
+#: units/humans/Peasant_Child.cfg:114
+msgid "female^Peasant Child"
+msgstr ""
+
+#. [unit_type]: id=Gate SE, race=mechanical
+#. [unit_type]: id=Gate SW Hard, race=mechanical
+#. [unit_type]: id=Gate SW, race=mechanical
+#: units/mechanical/gate-se.cfg:5 units/mechanical/gate-sw-hd.cfg:5 units/mechanical/gate-sw.cfg:5
+msgid "Southwest Gate"
+msgstr ""
+
+#. [unit_type]: id=Gate SE, race=mechanical
+#. [unit_type]: id=Gate SW, race=mechanical
+#: units/mechanical/gate-se.cfg:18 units/mechanical/gate-sw.cfg:18
+msgid "normal gate"
+msgstr ""
+
+#. [unit_type]: id=Gate SW Hard, race=mechanical
+#: units/mechanical/gate-sw-hd.cfg:18
+msgid "hard gate"
+msgstr ""
+
+#. [unit_type]: id=Bear, race=monster
+#: units/monsters/bear.cfg:4
+msgid "Bear"
+msgstr ""
+
+#. [unit_type]: id=Bear, race=monster
+#: units/monsters/bear.cfg:18
+msgid "bear"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/monsters/bear.cfg:36 units/trolls/Whelp.cfg:41
+msgid "fist"
+msgstr ""
+
+#. [unit_type]: id=Harfdead Child, race=undead
+#: units/s_undead/Harfdead_Child.cfg:7
+msgid "Harfdead Child"
+msgstr ""
+
+#. [unit_type]: id=Lady Ancient Lich, race=undead
+#: units/s_undead/Lady_Ancient_Lich.cfg:4
+msgid "Lady Ancient Lich"
+msgstr ""
+
+#. [unit_type]: id=Lady Ancient Lich, race=undead
+#: units/s_undead/Lady_Ancient_Lich.cfg:27
+msgid "A being of this order is a revenant of ages long past. Anyone who encounters an Ancient Lich likely has far worse things to worry about than death."
+msgstr ""
+
+#. [attack]: type=arcane
+#: units/s_undead/Lady_Ancient_Lich.cfg:53 units/s_undead/Lady_Lich.cfg:53 units/s_undead/Lady_Pre_Lich.cfg:52
+msgid "touch"
+msgstr ""
+
+#. [attack]: type=cold
+#: units/s_undead/Lady_Ancient_Lich.cfg:65 units/s_undead/Lady_Lich.cfg:65 units/s_undead/Lady_Pre_Lich.cfg:64
+msgid "chill tempest"
+msgstr ""
+
+#. [attack]: type=arcane
+#: units/s_undead/Lady_Ancient_Lich.cfg:80 units/s_undead/Lady_Lich.cfg:80 units/s_undead/Lady_Pre_Lich.cfg:79
+msgid "shadow wave"
+msgstr ""
+
+#. [unit_type]: id=Lady Lich, race=undead
+#: units/s_undead/Lady_Lich.cfg:4
+msgid "Lady Lich"
+msgstr ""
+
+#. [unit_type]: id=Lady Lich, race=undead
+#. [unit_type]: id=Lady Prelich, race=undead
+#: units/s_undead/Lady_Lich.cfg:25 units/s_undead/Lady_Pre_Lich.cfg:24
+msgid ""
+"A lich is the physical embodiment of black magic's first goal: the quest to achieve immortality. Though a great deal is sacrificed in the rebirth, in becoming a lich one cheats death of that which truly gives it terror. For it is the mind that is retained, and the spirit which follows, though the body may wither away.\n"
+"\n"
+"It is not known, save perhaps by the inner circles of necromancy, whether life is prolonged indefinitely or simply extended. But the fact that this question can be raised at all, testifies to the magnitude of what their order has achieved."
+msgstr ""
+
+#. [unit_type]: id=Lady Prelich, race=undead
+#: units/s_undead/Lady_Pre_Lich.cfg:4
+msgid "Lady Prelich"
+msgstr ""
+
+#. [unit_type]: id=Lady Skeleton, race=undead
+#: units/s_undead/Lady_Skeleton.cfg:4
+msgid "Lady Skeleton"
+msgstr ""
+
+#. [unit_type]: id=Lady Skeleton, race=undead
+#: units/s_undead/Lady_Skeleton.cfg:20
+msgid "Skeletons are warriors who have been slain in battle and brought back by dark magics. Nearly mindless, and unwavering in their purpose, they fear neither pain, nor death, and their mere presence will often frighten away any who would challenge their master."
+msgstr ""
+
+#. [attack]: type=blade
+#: units/s_undead/Lady_Skeleton.cfg:92
+msgid "knife"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/s_undead/Lady_Skeleton.cfg:107
+msgid "entangle"
+msgstr ""
+
+#. [unit_type]: id=Trollo, race=troll
+#: units/trolls/Troll.cfg:4
+msgid "Troll"
+msgstr ""
+
+#. [unit_type]: id=Trollo, race=troll
+#: units/trolls/Troll.cfg:17
+msgid "Trolls have long troubled the thoughts of humanity and dwarf-kind. Sages remain baffled at the origins of these creatures and the driving force behind their unnatural vitality and strength. A fully-grown troll towers above a man, and, even unarmed, would be a great threat in combat. The large clubs typically favored in fighting act as extensions of their arms, used for the same purpose of mauling their prey into submission."
+msgstr ""
+
+#. [attack]: type=impact
+#: units/trolls/Troll.cfg:40
+msgid "club"
+msgstr ""
+
+#. [unit_type]: id=Trollo Warrioro, race=troll
+#: units/trolls/Warrior.cfg:4
+msgid "Troll Warrior"
+msgstr ""
+
+#. [unit_type]: id=Trollo Warrioro, race=troll
+#: units/trolls/Warrior.cfg:19
+msgid "Trolls typically neither need nor prefer to use any proper armament in combat, as large ‘sticks and stones’ serve them all too well. However, trolls have been seen on numerous occasions clad in rough-shod armor and bearing metal hammers. It is speculated that orcish allies are the source and crafters of these; expeditions into several forcibly-vacated troll holes have shown little evidence of tool use, and certainly no metalworking of any kind. Given how dangerous a troll is with its bare hands, the thought of a troll with proper armament is entirely unsettling."
+msgstr ""
+
+#. [attack]: type=impact
+#: units/trolls/Warrior.cfg:29
+msgid "hammer"
+msgstr ""
+
+#. [unit_type]: id=Trollo Whelpo, race=troll
+#: units/trolls/Whelp.cfg:4
+msgid "Troll Whelp"
+msgstr ""
+
+#. [unit_type]: id=Trollo Whelpo, race=troll
+#: units/trolls/Whelp.cfg:19
+msgid "Describing a troll as a whelp is something of an oxymoron, given that their bodies are already much hardier than that of a grown man. They are clumsy and not yet capable of walking properly, forced instead to shamble about on all fours, but any difficulty this causes them is more than made up for by the raw strength of their race."
+msgstr ""
+
+#. [unit_type]: id=Death Knight Loyal, race=undead
+#: units/undead/Skele_Death_Knight_Loyal.cfg:4
+msgid "Death Knight Loyal"
+msgstr ""
+
+#. [unit_type]: id=Death Knight Loyal, race=undead
+#: units/undead/Skele_Death_Knight_Loyal.cfg:26
+msgid "Tales are told of the mightiest warriors and generals, who, cursed with hate and stung by betrayal, have come back to this world as Death Knights. Wielding the same weapons as in life, they command the Undead in their quest for revenge."
+msgstr ""
+
+#. [attack]: type=blade
+#: units/undead/Skele_Death_Knight_Loyal.cfg:46
+msgid "battle axe"
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/undead/Skele_Death_Knight_Loyal.cfg:55
+msgid "crossbow"
+msgstr ""
+
+#. [unit_type]: id=Gold Chocobone, race=undead
+#: units/undead/Skele_Gold_Chocobone.cfg:4
+msgid "Gold Chocobone"
+msgstr ""
+
+#. [unit_type]: id=Gold Chocobone, race=undead
+#. [unit_type]: id=Silver Chocobone, race=undead
+#: units/undead/Skele_Gold_Chocobone.cfg:27 units/undead/Skele_Silver_Chocobone.cfg:27
+msgid "Riding the bones of ostrich-like large birds once used as mounts by a lost civilization, the skeletal Chocobones can move faster than most cavalry units."
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/undead/Skele_Gold_Chocobone.cfg:32 units/undead/Skele_Silver_Chocobone.cfg:32
+msgid "spear"
+msgstr ""
+
+#. [unit_type]: id=Revenant Loyal, race=undead
+#: units/undead/Skele_Revenant_Loyal.cfg:4
+msgid "Revenant Loyal"
+msgstr ""
+
+#. [unit_type]: id=Revenant Loyal, race=undead
+#: units/undead/Skele_Revenant_Loyal.cfg:19
+msgid "Given false life to do battle once more, the creatures known as Revenants were clearly great warriors in their time, though the memory of that time is allmost wholly lost to their undead selves. Even the sorcerers who raised them can only speculate on their past. Such questions aside, a Revenant is a powerful tool in combat: a fearless warrior that feels no pain and will fight to the bitter end."
+msgstr ""
+
+#. [attack]: type=blade
+#: units/undead/Skele_Revenant_Loyal.cfg:47
+msgid "axe"
+msgstr ""
+
+#. [unit_type]: id=Silver Chocobone, race=undead
+#: units/undead/Skele_Silver_Chocobone.cfg:4
+msgid "Silver Chocobone"
+msgstr ""
+
+#. [illuminates]: id=darken
+#: utils/abilities.cfg:14 utils/abilities.cfg:32 utils/abilities.cfg:50
+msgid "darkens"
+msgstr ""
+
+#. [illuminates]: id=darken
+#: utils/abilities.cfg:15 utils/abilities.cfg:33 utils/abilities.cfg:51
+msgid "female^darkens"
+msgstr ""
+
+#. [illuminates]: id=darken
+#: utils/abilities.cfg:16 utils/abilities.cfg:34 utils/abilities.cfg:52
+msgid ""
+"Darkens:\n"
+"This unit untiilluminates the surrounding area, making chaotic units fight better, and lawful units fight worse.\n"
+"\n"
+"Any units adjacent to this unit will fight as if it were dusk when it is day, and as if it were night when it is dusk."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: utils/gud_utils.cfg:127
+msgid "Do you take this sword ?"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: utils/gud_utils.cfg:129
+msgid "Yes"
+msgstr ""
+
+#. [effect]: type=blade
+#. [object]: id={ID}
+#: utils/gud_utils.cfg:134 utils/gud_utils.cfg:168
+msgid "Sword of Darkness"
+msgstr ""
+
+#. [object]: id={ID}
+#: utils/gud_utils.cfg:138
+msgid "You get power of darkness"
+msgstr ""
+
+#. [object]: id={ID}
+#: utils/gud_utils.cfg:139
+msgid "Only skeleton and troll can have the sword."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: utils/gud_utils.cfg:152
+msgid "The sword belongs to this unit."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: utils/gud_utils.cfg:191
+msgid "No"
+msgstr ""
+
+#. [effect]: type=blade
+#. [effect]: type=impact
+#: utils/gud_utils.cfg:230 utils/gud_utils.cfg:257 utils/gud_utils.cfg:288 utils/gud_utils.cfg:312 utils/gud_utils.cfg:405 utils/gud_utils.cfg:432
+msgid "Unison"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: utils/gud_utils.cfg:669
+msgid "$count_empty units can enter after."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: utils/gud_utils.cfg:688
+msgid "Failed some hero enter the castle. "
+msgstr ""
+
+#. [message]: speaker=narrator
+#: utils/gud_utils.cfg:698
+msgid "No more units can enter the castle. "
+msgstr ""
+
+#. [message]: speaker=Malica
+#: utils/gud_utils.cfg:716
+msgid "I have to enter the gate next. "
+msgstr ""
+
+#. [message]: speaker=Malica
+#: utils/gud_utils.cfg:735
+msgid "Sorry! I cann't enter the gate! "
+msgstr ""
+
+#. [message]: speaker=Malica
+#: utils/last_breath.cfg:16
+msgid "I cann't go no more.  I'm sorry. Good bye. "
+msgstr ""
+
+#. [message]: speaker=Poet
+#: utils/last_breath.cfg:20
+msgid "My Princess, don't say sorry!  don't say good bye! Don't die! "
+msgstr ""
+
+#. [message]: speaker=Poet
+#: utils/last_breath.cfg:36
+msgid "Ack! I am fallen.  I can follow you no further. "
+msgstr ""
+
+#. [message]: speaker=Malica
+#: utils/last_breath.cfg:40
+msgid "Poet! Don't die! "
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: utils/last_breath.cfg:57
+msgid "Loana...forgive me... "
+msgstr ""
+
+#. [message]: speaker=Stella
+#: utils/last_breath.cfg:61
+msgid "Cyclos!! "
+msgstr ""
+
+#. [message]: speaker=Poet
+#: utils/last_breath.cfg:65
+msgid "He died.  And we needed his guidance. "
+msgstr ""
+
+#. [message]: speaker=Stella
+#: utils/last_breath.cfg:82
+msgid "Sorry.  Cyclos. "
+msgstr ""
+
+#. [message]: speaker=Cyclos
+#: utils/last_breath.cfg:86
+msgid "Stella! Don't Die!! "
+msgstr ""
+
+#. [message]: speaker=Poet
+#: utils/last_breath.cfg:90
+msgid "Without her reinforcements, there is no chance for us. "
+msgstr ""
+
+#. [message]: speaker=Poet
+#: utils/last_breath.cfg:106
+msgid "Ah! Don't die my boy!  I cann't live no more without you! "
+msgstr ""
+
+#. [message]: speaker=Malica
+#: utils/last_breath.cfg:113
+msgid "Oh, Poet!  I don't know you love the troll so much. "
+msgstr ""
+
